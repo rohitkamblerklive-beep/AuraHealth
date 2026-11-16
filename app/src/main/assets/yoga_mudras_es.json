@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "gyan_mudra",
+    "name": "Gyan Mudra",
+    "translation": "Gesto del Conocimiento",
+    "category": "Mental Calm",
+    "benefits": "Mejora la concentración, agudiza la memoria, reduce el estrés y cura el insomnio.",
+    "steps": [
+      "Siéntate en una postura de yoga cómoda como Padmasana o Sukhasana.",
+      "Toca la punta del dedo índice con la punta del pulgar.",
+      "Mantén los otros tres dedos rectos, relajados y paralelos entre sí.",
+      "Coloca las manos sobre las rodillas con las palmas hacia arriba."
+    ],
+    "duration": "30-45 minutos al día (o tres sesiones de 15 minutos)",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chin_mudra",
+    "name": "Chin Mudra",
+    "translation": "Gesto de la Conciencia",
+    "category": "Mental Calm",
+    "benefits": "Mejora el enfoque, conecta la conciencia, calma la mente y alivia la depresión.",
+    "steps": [
+      "Siéntate erguido y coloca las manos sobre los muslos.",
+      "Toca la punta del dedo índice con la punta del pulgar.",
+      "Mantén los otros tres dedos rectos pero apuntándolos hacia abajo, hacia la tierra.",
+      "Cierra los ojos y concéntrate en tu respiración."
+    ],
+    "duration": "15-30 minutos al día",
+    "icon": "thumb_index_down"
+  },
+  {
+    "id": "dhyana_mudra",
+    "name": "Dhyana Mudra",
+    "translation": "Gesto de la Meditación",
+    "category": "Mental Calm",
+    "benefits": "Aporta una concentración profunda, equilibra los hemisferios derecho e izquierdo del cerebro y brinda paz interior.",
+    "steps": [
+      "Siéntate en Padmasana o Sukhasana.",
+      "Coloca la mano derecha sobre la mano izquierda, con las palmas hacia arriba, en tu regazo.",
+      "Toca las puntas de los pulgares, formando una figura triangular.",
+      "Mantén las manos relajadas y apóyalas cerca del abdomen."
+    ],
+    "duration": "20-45 minutos durante la meditación",
+    "icon": "palms_stacked"
+  },
+  {
+    "id": "bhairava_mudra",
+    "name": "Bhairava Mudra",
+    "translation": "Gesto Feroz de Shiva",
+    "category": "Mental Calm",
+    "benefits": "Unifica la mente, equilibra las energías internas y alinea el enfoque espiritual.",
+    "steps": [
+      "Siéntate cómodamente con la columna erguida.",
+      "Coloca la mano derecha sobre la mano izquierda en tu regazo, con ambas palmas hacia arriba.",
+      "Mantén los pulgares relajados sin tocarse.",
+      "Enfoca tu mente en el chakra raíz."
+    ],
+    "duration": "15-30 minutos al día",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "anjali_mudra",
+    "name": "Anjali Mudra",
+    "translation": "Gesto de Oración y Namasté",
+    "category": "Mental Calm",
+    "benefits": "Promueve el respeto, conecta los hemisferios cerebrales y alivia el estrés.",
+    "steps": [
+      "Junta las palmas de las manos frente al centro del corazón.",
+      "Asegúrate de que los dedos apunten hacia arriba, con los pulgares apoyados suavemente sobre el esternón.",
+      "Presiona ligeramente los bordes externos de las palmas entre sí.",
+      "Inclina la cabeza ligeramente para sellar el gesto."
+    ],
+    "duration": "5-15 minutos al día",
+    "icon": "palms_joined"
+  },
+  {
+    "id": "shambhavi_mudra",
+    "name": "Shambhavi Mudra",
+    "translation": "Gesto de Mirar al Entrecejo",
+    "category": "Mental Calm",
+    "benefits": "Despierta el chakra Ajna (tercer ojo), aumenta el control mental y reduce la ansiedad.",
+    "steps": [
+      "Siéntate en una postura de meditación con las manos en Gyan Mudra sobre las rodillas.",
+      "Cierra los ojos, luego ábrelos ligeramente y mira hacia arriba.",
+      "Enfoca ambos ojos en el centro entre tus cejas (Bhrumadhya).",
+      "No fuerces los ojos. Relájate si sientes presión."
+    ],
+    "duration": "3-10 minutos al día",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "kalesvara_mudra",
+    "name": "Kalesvara Mudra",
+    "translation": "Gesto del Señor del Tiempo",
+    "category": "Mental Calm",
+    "benefits": "Elimina conductas adictivas, agudiza la memoria y calma los arrebatos emocionales.",
+    "steps": [
+      "Junta las puntas de los dedos medios, apuntando directamente hacia arriba.",
+      "Dobla los otros dedos (índice, anular, meñique) de modo que sus segundas articulaciones se toquen.",
+      "Toca las puntas de tus pulgares, apuntando hacia abajo, hacia tu pecho.",
+      "Respira lenta y profundamente."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "complex_fingers_touching"
+  },
+  {
+    "id": "lotus_mudra",
+    "name": "Lotus Mudra (Padma)",
+    "translation": "Gesto de la Flor de Loto",
+    "category": "Mental Calm",
+    "benefits": "Abre el chakra del corazón, cultiva el amor y la compasión, y disipa la soledad.",
+    "steps": [
+      "Junta los talones de las palmas cerca del corazón.",
+      "Toca las puntas de los dedos meñiques y pulgares entre sí.",
+      "Separa ampliamente los dedos índice, medio y anular como un loto en flor.",
+      "Inhale profundamente, visualizando la pureza."
+    ],
+    "duration": "15-30 minutos al día",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "yoni_mudra",
+    "name": "Yoni Mudra",
+    "translation": "Gesto del Útero / Fuente",
+    "category": "Mental Calm",
+    "benefits": "Desconecta del mundo exterior, equilibra el sistema nervioso y cultiva la energía femenina.",
+    "steps": [
+      "Entrelaza tus dedos, con las palmas orientadas hacia ti.",
+      "Extiende los dedos índices hacia abajo, tocándose en las puntas.",
+      "Extiende los pulgares hacia arriba, tocándose en las puntas.",
+      "Entrelaza los otros dedos dentro de las palmas."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "womb_shape"
+  },
+  {
+    "id": "abhaya_mudra",
+    "name": "Abhaya Mudra",
+    "translation": "Gesto de la Intrepidez",
+    "category": "Mental Calm",
+    "benefits": "Disipa el miedo, aporta seguridad emocional e invoca la paz y la protección divina.",
+    "steps": [
+      "Levanta la mano derecha a la altura del hombro, con el codo doblado.",
+      "Gira la palma hacia afuera, mirando hacia adelante, con los dedos apuntando hacia arriba.",
+      "Apoya la mano izquierda plana sobre tu regazo o rodilla izquierda, con la palma hacia arriba.",
+      "Respira de manera constante, encarnando la confianza."
+    ],
+    "duration": "10-20 minutos al día",
+    "icon": "right_palm_forward"
+  },
+  {
+    "id": "hakini_mudra",
+    "name": "Hakini Mudra",
+    "translation": "Gesto de la Mente",
+    "category": "Brain & Focus",
+    "benefits": "Mejora la memoria, integra los hemisferios cerebrales derecho e izquierdo y potencia el poder mental.",
+    "steps": [
+      "Lleva las manos frente al pecho.",
+      "Toca las yemas de los dedos de la mano derecha con las correspondientes de la mano izquierda.",
+      "Mantén las palmas separadas, formando una esfera hueca y abierta entre tus manos.",
+      "Coloca la lengua contra el paladar mientras inhalas."
+    ],
+    "duration": "30 minutos al día (o tres sesiones de 10 minutos)",
+    "icon": "fingertips_touching"
+  },
+  {
+    "id": "adho_mukha_mudra",
+    "name": "Adho Mukha Mudra",
+    "translation": "Gesto Hacia Abajo",
+    "category": "Mental Calm",
+    "benefits": "Calma las mentes hiperactivas, promueve un enraizamiento profundo y ayuda a tener un sueño reparador.",
+    "steps": [
+      "Coloca el dorso de las manos juntos frente al pecho.",
+      "Asegúrate de que los dorsos de los dedos se toquen, apuntando hacia abajo.",
+      "Apoya tus pulgares en el centro, tocándose por los lados.",
+      "Relaja los hombros y respira lentamente."
+    ],
+    "duration": "15 minutos antes de acostarse",
+    "icon": "backs_touching"
+  },
+  {
+    "id": "vayu_mudra",
+    "name": "Vayu Mudra",
+    "translation": "Gesto del Aire",
+    "category": "Healing & Therapy",
+    "benefits": "Alivia el dolor articular, la artritis, la hinchazón y el exceso de gases en el estómago.",
+    "steps": [
+      "Dobla el dedo índice para tocar la base del pulgar.",
+      "Presiona suavemente el dedo índice hacia abajo con el pulgar.",
+      "Mantén los otros tres dedos extendidos rectos y relajados.",
+      "Apoya las manos en las rodillas con las palmas hacia arriba."
+    ],
+    "duration": "30-45 minutos al día (o durante los ataques de dolor articular)",
+    "icon": "thumb_over_index"
+  },
+  {
+    "id": "shunya_mudra",
+    "name": "Shunya Mudra",
+    "translation": "Gesto del Cielo / Vacío",
+    "category": "Healing & Therapy",
+    "benefits": "Cura dolores de oído, alivia el tinnitus, los problemas de tiroides y los problemas de garganta.",
+    "steps": [
+      "Dobla el dedo medio hacia la base del pulgar.",
+      "Presiona suavemente el dedo medio hacia abajo con el pulgar.",
+      "Mantén los otros tres dedos rectos.",
+      "Practica esto en ambas manos simultáneamente."
+    ],
+    "duration": "30-40 minutos al día o hasta que desaparezca el dolor de oído",
+    "icon": "thumb_over_middle"
+  },
+  {
+    "id": "varuna_mudra",
+    "name": "Varuna Mudra",
+    "translation": "Gesto del Agua",
+    "category": "Healing & Therapy",
+    "benefits": "Hidrata la piel seca, purifica la sangre, previene las arrugas y cura las infecciones de la piel.",
+    "steps": [
+      "Toca la punta del dedo meñique con la punta del pulgar.",
+      "Mantén los otros tres dedos rectos y relajados.",
+      "No presiones con fuerza el dedo meñique, mantén el contacto ligero.",
+      "Siéntate cómodamente y practica con ambas manos."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "linga_mudra",
+    "name": "Linga Mudra",
+    "translation": "Gesto del Calor y el Fuego",
+    "category": "Healing & Therapy",
+    "benefits": "Genera calor corporal interno, cura el resfriado común, la tos, el asma y quema grasa.",
+    "steps": [
+      "Entrelaza todos los dedos de ambas manos, manteniendo las palmas presionadas una contra otra.",
+      "Mantén el pulgar izquierdo apuntando directamente hacia arriba.",
+      "Rodea el pulgar izquierdo erguido con el dedo índice y el pulgar de la mano derecha.",
+      "Mantén las manos cerca del pecho."
+    ],
+    "duration": "15-20 minutos al día (evitar durante fiebre o acidez)",
+    "icon": "interlocked_thumb_up"
+  },
+  {
+    "id": "shankh_mudra",
+    "name": "Shankh Mudra",
+    "translation": "Gesto de la Caracola",
+    "category": "Healing & Therapy",
+    "benefits": "Mejora la claridad de la voz, los trastornos tiroideos de la garganta y estimula la digestión.",
+    "steps": [
+      "Rodea tu pulgar izquierdo con los cuatro dedos de la mano derecha.",
+      "Toca tu pulgar derecho con la punta del dedo medio izquierdo.",
+      "Sostén las manos cerca del pecho, simulando una caracola.",
+      "Respira por la nariz, concentrándote en la garganta."
+    ],
+    "duration": "30-45 minutos al día",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "apana_vayu_mudra",
+    "name": "Apana Vayu Mudra",
+    "translation": "Salvador del Corazón / Mrita Sanjeevani",
+    "category": "Heart & Circulation",
+    "benefits": "Fortalece los músculos cardíacos, regula la presión arterial y proporciona alivio inmediato en ataques cardíacos.",
+    "steps": [
+      "Dobla el dedo índice para tocar la base del pulgar.",
+      "Toca las puntas de los dedos medio y anular con la punta del pulgar.",
+      "Mantén el dedo meñique recto.",
+      "Practica en ambas manos."
+    ],
+    "duration": "30-40 minutos al día (mudra crucial de emergencia)",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "mahasirs_mudra",
+    "name": "Mahasirs Mudra",
+    "translation": "Gran Gesto de la Cabeza",
+    "category": "Healing & Therapy",
+    "benefits": "Alivia la congestión sinusal, los dolores de cabeza por tensión y la fatiga ocular.",
+    "steps": [
+      "Toca las puntas de los dedos pulgar, índice y medio entre sí.",
+      "Coloca el dedo anular en el pliegue de la base del pulgar.",
+      "Mantén el dedo meñique extendido recto.",
+      "Respira con calma y relaja la frente."
+    ],
+    "duration": "10-15 minutos según sea necesario",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "mukula_mudra",
+    "name": "Mukula Mudra",
+    "translation": "Gesto del Capullo",
+    "category": "Healing & Therapy",
+    "benefits": "Dirige la energía curativa a órganos débiles específicos como el hígado, el bazo o los riñones.",
+    "steps": [
+      "Lleva las cuatro yemas de los dedos a tocar la punta del pulgar.",
+      "Esto forma una figura parecida a un capullo de flor cerrado.",
+      "Apunta este capullo hacia la parte del cuerpo u órgano que necesita curación.",
+      "Visualiza una luz verde curativa fluyendo hacia ese órgano."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "all_touching_thumb"
+  },
+  {
+    "id": "suchi_mudra",
+    "name": "Suchi Mudra",
+    "translation": "Gesto de la Aguja",
+    "category": "Healing & Therapy",
+    "benefits": "Alivia el estreñimiento crónico, libera bloqueos mentales y desintoxica los intestinos.",
+    "steps": [
+      "Haz un puño con ambas manos.",
+      "Extiende los dedos índices directamente hacia arriba.",
+      "Extiende las manos hacia afuera desde el pecho.",
+      "Mantén este gesto mientras te concentras en la parte baja del vientre."
+    ],
+    "duration": "10-15 minutos por la mañana",
+    "icon": "fist_index_up"
+  },
+  {
+    "id": "surabhi_mudra",
+    "name": "Surabhi Mudra",
+    "translation": "Gesto de la Vaca que Cumple Deseos",
+    "category": "Healing & Therapy",
+    "benefits": "Equilibra los cinco elementos en el cuerpo, cura el dolor articular y mejora el metabolismo.",
+    "steps": [
+      "Toca el dedo meñique izquierdo con la punta del dedo anular derecho.",
+      "Toca el dedo meñique derecho con la punta del dedo anular izquierdo.",
+      "Toca el dedo medio izquierdo con la punta del dedo índice derecho.",
+      "Toca el dedo medio derecho con la punta del dedo índice izquierdo. Mantén los pulgares separados."
+    ],
+    "duration": "15-30 minutos al día",
+    "icon": "complex_crossed"
+  },
+  {
+    "id": "bhudi_mudra",
+    "name": "Bhudi Mudra",
+    "translation": "Gesto del Equilibrio de Líquidos",
+    "category": "Healing & Therapy",
+    "benefits": "Regula el equilibrio de líquidos, previene la sequedad ocular y ayuda a las funciones renales y de la vejiga.",
+    "steps": [
+      "Toca la punta del dedo meñique con la punta del pulgar.",
+      "Mantén los dedos índice, medio y anular rectos.",
+      "Siéntate en una postura relajada y coloca las manos sobre las rodillas."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "granthita_mudra",
+    "name": "Granthita Mudra",
+    "translation": "Gesto del Nudo",
+    "category": "Healing & Therapy",
+    "benefits": "Estimula la glándula tiroides, abre el chakra de la garganta y ayuda a la claridad vocal.",
+    "steps": [
+      "Entrelaza tus dedos dentro de tus palmas.",
+      "Toca las puntas de tus dedos índices y pulgares para formar dos anillos.",
+      "Sostén el mudra frente a tu garganta.",
+      "Canta 'HAM' o respira profundamente."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "double_rings"
+  },
+  {
+    "id": "prana_mudra",
+    "name": "Prana Mudra",
+    "translation": "Gesto de la Fuerza Vital",
+    "category": "Energy & Vitality",
+    "benefits": "Fortalece el sistema inmunológico, aporta energía instantánea, mejora la vista y reduce la fatiga.",
+    "steps": [
+      "Toca las puntas de los dedos anular y meñique con la punta del pulgar.",
+      "Mantén los dedos índice y medio extendidos rectos.",
+      "Practica con ambas manos mientras estás sentado o caminando."
+    ],
+    "duration": "30-45 minutos al día (se puede dividir)",
+    "icon": "thumb_ring_pinky"
+  },
+  {
+    "id": "surya_mudra",
+    "name": "Surya Mudra",
+    "translation": "Gesto del Sol / Fuego",
+    "category": "Energy & Vitality",
+    "benefits": "Estimula la actividad tiroidea, promueve la pérdida de peso, reduce el colesterol y calienta el cuerpo.",
+    "steps": [
+      "Dobla el dedo anular para tocar la base del pulgar.",
+      "Presiona suavemente el dedo anular hacia abajo con el pulgar.",
+      "Mantén los otros dedos rectos.",
+      "Realiza esto con el estómago vacío."
+    ],
+    "duration": "15-30 minutos al día (evitar en calor excesivo)",
+    "icon": "thumb_over_ring"
+  },
+  {
+    "id": "adi_mudra",
+    "name": "Adi Mudra",
+    "translation": "Primer / Primordial Gesto",
+    "category": "Brain & Focus",
+    "benefits": "Aumenta el flujo de oxígeno al cerebro, expande la capacidad pulmonar y calma el sistema nervioso.",
+    "steps": [
+      "Coloca el pulgar in the center of the palm.",
+      "Envuelve tus otros cuatro dedos sobre el pulgar para hacer un puño suave.",
+      "Apoya los puños sobre tus muslos, orientados hacia abajo.",
+      "Concéntrate en la respiración del pecho y la garganta."
+    ],
+    "duration": "20 minutos al día",
+    "icon": "thumb_inside_fist"
+  },
+  {
+    "id": "uttarabodhi_mudra",
+    "name": "Uttarabodhi Mudra",
+    "translation": "Gesto de la Iluminación Suprema",
+    "category": "Energy & Vitality",
+    "benefits": "Disipa el miedo, aumenta la autoconfianza, recarga la energía y estimula los pulmones.",
+    "steps": [
+      "Entrelaza todos los dedos excepto los índices y los pulgares.",
+      "Extiende los dedos índices directamente hacia arriba, tocándose en las puntas.",
+      "Extiende los pulgares directamente hacia abajo, tocándose en las puntas.",
+      "Sostén las manos cerca del corazón."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "pointy_hands"
+  },
+  {
+    "id": "ksepana_mudra",
+    "name": "Ksepana Mudra",
+    "translation": "Gesto de Dejar Ir",
+    "category": "Energy & Vitality",
+    "benefits": "Expulsa la energía negativa, libera toxinas a través del sudor/respiración y alivia la tensión.",
+    "steps": [
+      "Junta los dedos, con los índices extendidos rectos, tocándose en las puntas.",
+      "Cruza los pulgares uno sobre el otro.",
+      "Apunta los dedos índices hacia abajo, hacia el suelo, para liberar energía.",
+      "Sostén durante unos minutos, luego descansa con las palmas hacia arriba."
+    ],
+    "duration": "5-10 minutos al día",
+    "icon": "pointy_down"
+  },
+  {
+    "id": "prithvi_mudra",
+    "name": "Prithvi Mudra",
+    "translation": "Gesto de la Tierra",
+    "category": "Energy & Vitality",
+    "benefits": "Supera la fatiga, promueve el aumento de peso en personas con bajo peso y fortalece los tejidos corporales.",
+    "steps": [
+      "Toca la punta del dedo anular con la punta del pulgar.",
+      "Mantén los otros tres dedos rectos y relajados.",
+      "Realiza esto mientras estás sentado en Padmasana."
+    ],
+    "duration": "30-45 minutos al día",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "garuda_mudra",
+    "name": "Garuda Mudra",
+    "translation": "Gesto del Águila",
+    "category": "Energy & Vitality",
+    "benefits": "Equilibra las energías, alivia los cólicos menstruales y mejora la circulación sanguínea.",
+    "steps": [
+      "Coloca la mano derecha sobre la mano izquierda, con las palmas hacia tu pecho.",
+      "Entrelaza tus pulgares, formando una figura de alas de águila con los dedos.",
+      "Separa ampliamente los dedos, simulando alas.",
+      "Sostén frente a la parte inferior del abdomen, luego muévelo hacia el pecho."
+    ],
+    "duration": "4 minutos, tres veces al día",
+    "icon": "thumbs_locked_wings"
+  },
+  {
+    "id": "vajra_mudra",
+    "name": "Vajra Mudra",
+    "translation": "Gesto del Rayo",
+    "category": "Energy & Vitality",
+    "benefits": "Mejora la presión arterial baja, alivia los mareos y estimula la circulación sanguínea.",
+    "steps": [
+      "Apunta tu dedo índice izquierdo directamente hacia arriba.",
+      "Rodea el dedo índice izquierdo con los dedos de la mano derecha.",
+      "Toca la punta del pulgar derecho con la punta del dedo índice izquierdo.",
+      "Sostén esto cerca de tu plexo solar."
+    ],
+    "duration": "15 minutos, dos veces al día",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "makara_mudra",
+    "name": "Makara Mudra",
+    "translation": "Gesto del Cocodrilo",
+    "category": "Energy & Vitality",
+    "benefits": "Activa la energía renal, ayuda a combatir la fatiga y aclara las ojeras debajo de los ojos.",
+    "steps": [
+      "Coloca la mano derecha dentro de la mano izquierda.",
+      "Desliza tu pulgar derecho a través del meñique y el anular de la mano izquierda.",
+      "Toca la punta del pulgar derecho con la punta del dedo anular izquierdo.",
+      "Extiende tu pulgar izquierdo hacia arriba."
+    ],
+    "duration": "10-15 minutos al día",
+    "icon": "complex_crocodile"
+  },
+  {
+    "id": "kurma_mudra",
+    "name": "Kurma Mudra",
+    "translation": "Gesto de la Tortuga",
+    "category": "Energy & Vitality",
+    "benefits": "Enraíza la mente activa, conserva la energía vital y ayuda a calmar los pensamientos.",
+    "steps": [
+      "Extiende los dedos, cruza la mano derecha sobre la mano izquierda.",
+      "Toca las puntas de los pulgares entre sí.",
+      "Curva los otros dedos hacia adentro para representar el caparazón de una tortuga.",
+      "Sostén frente al vientre."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "tortoise_shape"
+  },
+  {
+    "id": "trishula_mudra",
+    "name": "Trishula Mudra",
+    "translation": "Gesto del Tridente",
+    "category": "Energy & Vitality",
+    "benefits": "Potencia el poder interno, despierta la energía Kundalini y ayuda a enfocar la autodefensa.",
+    "steps": [
+      "Dobla el dedo meñique para tocar la base del pulgar.",
+      "Mantén los dedos índice, medio y anular apuntando directamente hacia arriba como un tridente.",
+      "Sostén las manos hacia afuera cerca de los hombros.",
+      "Respira con fuerza."
+    ],
+    "duration": "10 minutos al día",
+    "icon": "trident_fingers"
+  },
+  {
+    "id": "shivalinga_mudra",
+    "name": "Shivalinga Mudra",
+    "translation": "Gesto de la Energía del Señor Shiva",
+    "category": "Energy & Vitality",
+    "benefits": "Cura la pereza, llena el cuerpo de calor dinámico y estimula el fuego digestivo.",
+    "steps": [
+      "Haz un puño con tu mano derecha, con el pulgar apuntando directamente hacia arriba.",
+      "Coloca el puño derecho sobre la palma izquierda plana.",
+      "Sostén las manos cerca del pecho o de la parte superior del abdomen.",
+      "Practica con una respiración profunda."
+    ],
+    "duration": "10-15 minutos al día (evitar si hace calor)",
+    "icon": "thumb_fist_on_palm"
+  },
+  {
+    "id": "apana_mudra",
+    "name": "Apana Mudra",
+    "translation": "Gesto del Flujo Descendente",
+    "category": "Digestion & Detox",
+    "benefits": "Alivia el estreñimiento, elimina toxinas del cuerpo, purifica la piel y ayuda al movimiento intestinal regular.",
+    "steps": [
+      "Toca las puntas de los dedos medio y anular con la punta del pulgar.",
+      "Mantén los dedos índice y meñique rectos.",
+      "Apoya las manos en las rodillas con las palmas hacia arriba.",
+      "Concéntrate en la parte baja del abdomen."
+    ],
+    "duration": "30-45 minutos al día",
+    "icon": "thumb_middle_ring"
+  },
+  {
+    "id": "samana_mudra",
+    "name": "Samana Mudra",
+    "translation": "Gesto del Flujo Equilibrador / Mukul",
+    "category": "Digestion & Detox",
+    "benefits": "Mejora la digestión general, equilibra los cinco elementos y regula el metabolismo.",
+    "steps": [
+      "Junta las puntas de los cinco dedos (pulgar, índice, medio, anular, meñique).",
+      "Deben tocarse en un punto como un capullo de flor cerrado.",
+      "Siéntate relajado y practica en ambas manos simultáneamente.",
+      "Concéntrate en el chakra del ombligo."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "all_fingers_touching"
+  },
+  {
+    "id": "pushpaputa_mudra",
+    "name": "Pushpaputa Mudra",
+    "translation": "Gesto de un Puñado de Flores",
+    "category": "Digestion & Detox",
+    "benefits": "Promueve la aceptación, la apertura y abre los pulmones y la región del pecho.",
+    "steps": [
+      "Coloca las manos sobre los muslos, con las palmas hacia arriba.",
+      "Junta las manos de modo que los dedos meñiques se toquen por los lados.",
+      "Mantén los dedos ligeramente curvados como si sostuvieras flores en tus palmas.",
+      "Respira profundamente."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "cupped_palms"
+  },
+  {
+    "id": "mushti_mudra",
+    "name": "Mushti Mudra",
+    "translation": "Gesto del Puño",
+    "category": "Digestion & Detox",
+    "benefits": "Libera la ira acumulada, la irritación, cura el estreñimiento y ayuda a la digestión hepática.",
+    "steps": [
+      "Dobla todos tus dedos formando un puño.",
+      "Coloca el pulgar sobre el dedo anular.",
+      "Sostén este gesto con una presión firme pero cómoda.",
+      "Siéntate en silencio y observa tu respiración."
+    ],
+    "duration": "15-30 minutos al día",
+    "icon": "thumb_over_ring_fist"
+  },
+  {
+    "id": "matangi_mudra",
+    "name": "Matangi Mudra",
+    "translation": "Gesto de la Paz y la Armonía",
+    "category": "Digestion & Detox",
+    "benefits": "Calma el corazón excitado, alivia la tensión en el estómago, el hígado y las vías digestivas.",
+    "steps": [
+      "Entrelaza tus dedos a la altura del plexo solar.",
+      "Extiende los dedos medios rectos, tocándose en las puntas.",
+      "Mantén todos los demás dedos doblados hacia adentro.",
+      "Respira hacia tu estómago."
+    ],
+    "duration": "20 minutos al día",
+    "icon": "middle_extended"
+  },
+  {
+    "id": "kartari_mukha_mudra",
+    "name": "Kartari Mukha Mudra",
+    "translation": "Gesto de la Cara de Tijeras",
+    "category": "Digestion & Detox",
+    "benefits": "Estira los tendones de la mano, ayuda a relajar los músculos oculares y libera la tensión del cuello.",
+    "steps": [
+      "Toca las puntas de los dedos anular y meñique con la punta del pulgar.",
+      "Extiende los dedos índice y medio rectos hacia arriba como tijeras.",
+      "Separa ampliamente los dedos índice y medio.",
+      "Sostén las manos cerca de las orejas o los hombros."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "mayura_mudra",
+    "name": "Mayura Mudra",
+    "translation": "Gesto del Pavo Real",
+    "category": "Digestion & Detox",
+    "benefits": "Fortalece las muñecas, mejora el brillo de la piel y activa la energía del plexo solar.",
+    "steps": [
+      "Toca la punta del dedo anular con la punta del pulgar.",
+      "Dobla los dedos índice, medio y meñique rectos hacia arriba, sepáralos.",
+      "Sostén las manos apuntando hacia afuera como una cola de pavo real.",
+      "Practica con los ojos cerrados."
+    ],
+    "duration": "10-20 minutos al día",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "simha_mudra",
+    "name": "Simha Mudra",
+    "translation": "Gesto del León",
+    "category": "Digestion & Detox",
+    "benefits": "Cura las infecciones de garganta, los problemas de tiroides, cura el tartamudeo y fortalece los músculos faciales.",
+    "steps": [
+      "Siéntate sobre los talones (Vajrasana), con las rodillas separadas.",
+      "Coloca las palmas en los muslos, con los dedos bien abiertos.",
+      "Inclínate hacia adelante, abre la boca, estira la lengua hacia la barbilla.",
+      "Exhala con fuerza con un sonido 'JA', mirando a tu tercer ojo."
+    ],
+    "duration": "3-6 repeticiones al día",
+    "icon": "lion_pose"
+  },
+  {
+    "id": "jnana_mudra",
+    "name": "Jnana Mudra",
+    "translation": "Gesto de la Sabiduría",
+    "category": "Brain & Focus",
+    "benefits": "Mejora el poder cerebral, potencia la salud del sistema nervioso y aclara la confusión.",
+    "steps": [
+      "Toca la punta del dedo índice con la punta del pulgar.",
+      "Mantén los otros dedos rectos.",
+      "Coloca las manos sobre las rodillas, con las palmas hacia abajo.",
+      "Respira profundamente a través del pecho."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chinmaya_mudra",
+    "name": "Chinmaya Mudra",
+    "translation": "Gesto de la Conciencia Manifestada",
+    "category": "Brain & Focus",
+    "benefits": "Mejora la respiración en los lóbulos medios de los pulmones, calma la ansiedad y aclara el pensamiento.",
+    "steps": [
+      "Toca la punta del dedo índice con la punta del pulgar.",
+      "Doble los dedos medio, anular y meñique hacia tus palmas.",
+      "Apoya las manos en las rodillas con las palmas hacia arriba.",
+      "Respira profundamente."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "thumb_index_curled"
+  },
+  {
+    "id": "vyana_mudra",
+    "name": "Vyana Mudra",
+    "translation": "Gesto de Flujo Expansivo",
+    "category": "Heart & Circulation",
+    "benefits": "Regula la presión arterial (alta o baja), elimina la fatiga y mejora la circulación sanguínea.",
+    "steps": [
+      "Toca las puntas de los dedos índice y medio con la punta del pulgar.",
+      "Mantén los dedos anular y meñique rectos.",
+      "Apoya las manos en las rodillas, con las palmas hacia arriba."
+    ],
+    "duration": "20-30 minutos al día",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "udana_mudra",
+    "name": "Udana Mudra",
+    "translation": "Gesto de Flujo Ascendente",
+    "category": "Brain & Focus",
+    "benefits": "Estimula el metabolismo, ayuda con los problemas de tiroides, mejora la voz para hablar/cantar y de paso el cerebro.",
+    "steps": [
+      "Toca las puntas de los dedos índice, medio y anular con la punta del pulgar.",
+      "Mantén el dedo meñique recto.",
+      "Apoya las manos en las rodillas."
+    ],
+    "duration": "25 minutos al día",
+    "icon": "thumb_three_fingers"
+  },
+  {
+    "id": "akash_mudra",
+    "name": "Akash Mudra",
+    "translation": "Gesto del Espacio",
+    "category": "Brain & Focus",
+    "benefits": "Fortalece los huesos, cura problemas de oído, elimina pensamientos negativos y abre el chakra del espacio.",
+    "steps": [
+      "Toca la punta del dedo medio con la punta del pulgar.",
+      "Mantén los dedos índice, anular y meñique rectos.",
+      "Practica con ambas manos, orientadas hacia arriba."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "thumb_middle"
+  },
+  {
+    "id": "kartari_mudra",
+    "name": "Kartari Mudra",
+    "translation": "Gesto de las Tijeras",
+    "category": "Brain & Focus",
+    "benefits": "Potencia el enfoque, coordina el movimiento de las manos y los ojos y estimula las vías nerviosas.",
+    "steps": [
+      "Toca el pulgar con las puntas de los dedos anular y meñique.",
+      "Extiende los dedos índice y medio hacia arriba.",
+      "Separa los dedos extendidos."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "shankhini_mudra",
+    "name": "Shankhini Mudra",
+    "translation": "Gesto del Flujo de la Caracola",
+    "category": "Brain & Focus",
+    "benefits": "Equilibra el chakra de la garganta, mejora la claridad del habla y ayuda a la potencia vocal.",
+    "steps": [
+      "Rodea el pulgar izquierdo con los dedos derechos.",
+      "Toca el índice izquierdo con el pulgar derecho.",
+      "Respira por la garganta, tarareando suavemente."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "hridaya_mudra",
+    "name": "Hridaya Mudra",
+    "translation": "Gesto del Corazón",
+    "category": "Heart & Circulation",
+    "benefits": "Libera las emociones reprimidas, limpia los bloqueos del corazón y regula la presión arterial.",
+    "steps": [
+      "Coloca la punta del dedo índice en la base del pulgar.",
+      "Toca las puntas de los dedos medio y anular con la punta del pulgar.",
+      "Mantén el dedo meñique recto."
+    ],
+    "duration": "20-30 minutos al día",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "merudanda_mudra",
+    "name": "Merudanda Mudra",
+    "translation": "Gesto Espinal",
+    "category": "Healing & Therapy",
+    "benefits": "Alivia el dolor de espalda, endereza la postura de la columna y aumenta la capacidad pulmonar.",
+    "steps": [
+      "Dobla todos los dedos hacia las palmas, apuntando los pulgares hacia arriba.",
+      "Extiende los pulgares rectos hacia arriba.",
+      "Apoya las manos en las rodillas, con los pulgares apuntando el uno hacia el otro."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "thumbs_up"
+  },
+  {
+    "id": "pankaj_mudra",
+    "name": "Pankaj Mudra",
+    "translation": "Apertura de los Pétalos de Loto",
+    "category": "Mental Calm",
+    "benefits": "Expulsa los sentimientos de desesperanza, abre el corazón al amor y la alegría.",
+    "steps": [
+      "Toca las palmas juntas en la base.",
+      "Separa los dedos medios, mantén los meñiques y pulgares tocándose.",
+      "Abre los dedos ampliamente como una flor."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "brahmara_mudra",
+    "name": "Brahmara Mudra",
+    "translation": "Gesto de la Abeja",
+    "category": "Healing & Therapy",
+    "benefits": "Mejora el sistema inmunológico, cura las alergias, la secreción nasal y los estornudos.",
+    "steps": [
+      "Coloca el dedo índice dentro del pliegue del pulgar.",
+      "Toca la punta del pulgar con la punta del dedo medio.",
+      "Mantén los dedos anular y meñique rectos."
+    ],
+    "duration": "15 minutos, tres veces al día",
+    "icon": "bee_shape"
+  },
+  {
+    "id": "shankha_vayu_mudra",
+    "name": "Shankha Vayu Mudra",
+    "translation": "Gesto del Aire de la Caracola",
+    "category": "Digestion & Detox",
+    "benefits": "Estimula los intestinos, equilibra el chakra de la garganta y ayuda a digerir alimentos pesados.",
+    "steps": [
+      "Rodea el pulgar izquierdo con los dedos derechos.",
+      "Toca el pulgar derecho con las puntas de los dedos índice y medio izquierdos.",
+      "Sostén frente al vientre."
+    ],
+    "duration": "20 minutos al día",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "khechari_hridaya_mudra",
+    "name": "Khechari Hridaya Mudra",
+    "translation": "Gesto de Meditación del Corazón",
+    "category": "Mental Calm",
+    "benefits": "Aporta un estado profundo de trance, ralentiza el pulso y trae silencio interior.",
+    "steps": [
+      "Coloca la mano derecha sobre la mano izquierda en el centro del corazón.",
+      "Toca los pulgares con los dedos índices.",
+      "Enrolla tu lengua hacia arriba para tocar el paladar blando."
+    ],
+    "duration": "10 minutos en meditación",
+    "icon": "palms_stacked_heart"
+  },
+  {
+    "id": "agochari_mudra",
+    "name": "Agochari Mudra",
+    "translation": "Gesto de Mirar la Punta de la Nariz",
+    "category": "Brain & Focus",
+    "benefits": "Desarrolla una concentración profunda, activa el chakra Muladhara (raíz) y estabiliza la mente.",
+    "steps": [
+      "Siéntate en postura de meditación.",
+      "Enfoca tus ojos en la punta de tu nariz.",
+      "Respira lentamente, manteniendo el enfoque."
+    ],
+    "duration": "5 minutos al día",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "bhuchari_mudra",
+    "name": "Bhuchari Mudra",
+    "translation": "Mirar al Vacío",
+    "category": "Mental Calm",
+    "benefits": "Entra en un estado de cero pensamientos, calma la actividad cerebral y relaja el sistema nervioso.",
+    "steps": [
+      "Sostén tu mano derecha frente a tu cara, mirando a tu dedo meñique.",
+      "Baja lentamente la mano, pero mantén los ojos enfocados en ese mismo espacio vacío.",
+      "Observa el espacio vacío frente a ti."
+    ],
+    "duration": "5-10 minutos al día",
+    "icon": "gaze_void"
+  },
+  {
+    "id": "tse_mudra",
+    "name": "Tse Mudra",
+    "translation": "Gesto de los Tres Secretos",
+    "category": "Mental Calm",
+    "benefits": "Destierra la tristeza, protege contra la mala suerte y reduce la depresión.",
+    "steps": [
+      "Coloca la punta del pulgar en la base del dedo meñique.",
+      "Envuelve los otros cuatro dedos sobre el pulgar para hacer un puño.",
+      "Coloca las manos en los muslos, respirando profundamente."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "thumb_inside_pinky_fist"
+  },
+  {
+    "id": "kubera_mudra",
+    "name": "Kubera Mudra",
+    "translation": "Gesto de la Riqueza y el Enfoque",
+    "category": "Brain & Focus",
+    "benefits": "Aporta confianza, limpia los senos nasales y ayuda a concentrarse en las metas personales.",
+    "steps": [
+      "Toca las puntas de tus dedos pulgar, índice y medio entre sí.",
+      "Dobla los dedos anular y meñique en la palma.",
+      "Formula tu deseo o meta en tu mente mientras lo sostienes."
+    ],
+    "duration": "15-20 minutos al día",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "matsya_mudra",
+    "name": "Matsya Mudra",
+    "translation": "Gesto del Pez",
+    "category": "Healing & Therapy",
+    "benefits": "Estira las articulaciones de la muñeca, ayuda a aliviar el dolor de la osteoartritis y calma la respiración.",
+    "steps": [
+      "Coloca la mano derecha plana encima de la mano izquierda, mirando hacia abajo.",
+      "Extiende los pulgares hacia afuera como aletas de pez.",
+      "Sostén las manos cerca de tu plexo solar."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "varada_mudra",
+    "name": "Varada Mudra",
+    "translation": "Gesto de Bendiciones y Caridad",
+    "category": "Mental Calm",
+    "benefits": "Desarrolla la compasión, el perdón y conecta con el compartir espiritual.",
+    "steps": [
+      "Extiende tu mano izquierda hacia abajo, con la palma hacia adelante.",
+      "Apunta los dedos hacia abajo, hacia la tierra.",
+      "Apoya la mano derecha sobre el muslo o en Gyan Mudra."
+    ],
+    "duration": "10 minutos al día",
+    "icon": "left_palm_down"
+  },
+  {
+    "id": "rudra_mudra",
+    "name": "Rudra Mudra",
+    "translation": "Gesto del Gobernante Cósmico / Plexo Solar",
+    "category": "Energy & Vitality",
+    "benefits": "Regula el flujo sanguíneo, alivia los mareos y activa el chakra del plexo solar.",
+    "steps": [
+      "Toca las puntas de los dedos índice y anular con la punta del pulgar.",
+      "Mantén los dedos medio y meñique rectos."
+    ],
+    "duration": "20 minutos al día",
+    "icon": "thumb_index_ring"
+  },
+  {
+    "id": "kundalini_mudra",
+    "name": "Kundalini Mudra",
+    "translation": "Gesto de la Energía Espiritual",
+    "category": "Energy & Vitality",
+    "benefits": "Equilibra la energía sexual, unifica las dualidades y mejora el despertar espiritual.",
+    "steps": [
+      "Forma un puño suelto con ambas manos.",
+      "Extiende tu dedo índice izquierdo directamente hacia arriba en la parte inferior del puño derecho.",
+      "Rodea el dedo índice izquierdo con los dedos derechos.",
+      "Toca la punta del pulgar derecho con la punta del dedo índice izquierdo."
+    ],
+    "duration": "15 minutos, tres veces al día",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "pushan_mudra",
+    "name": "Pushan Mudra",
+    "translation": "Gesto de la Digestión y Nutrición",
+    "category": "Digestion & Detox",
+    "benefits": "Ayuda a la digestión, aumenta la asimilación de alimentos y alivia la hinchazón del estómago.",
+    "steps": [
+      "Mano derecha: Toca las puntas de los dedos índice y medio con la punta del pulgar.",
+      "Mano izquierda: Toca las puntas de los dedos medio y anular con la punta del pulgar.",
+      "Mantén los otros dedos rectos y apoya las manos en los muslos."
+    ],
+    "duration": "30 minutos al día",
+    "icon": "pushan_hand_shapes"
+  },
+  {
+    "id": "shankhamukhi_mudra",
+    "name": "Shankhamukhi Mudra",
+    "translation": "Gesto de la Boca de la Caracola",
+    "category": "Healing & Therapy",
+    "benefits": "Cura los defectos del habla, la ronquera de la garganta y estimula las cuerdas vocales.",
+    "steps": [
+      "Junta las manos de modo que los dedos se envuelvan alrededor de los pulgares opuestos.",
+      "Toca los dedos índices con los pulgares opuestos.",
+      "Sopla suavemente a través de la abertura entre las manos si haces práctica de respiración."
+    ],
+    "duration": "15 minutos al día",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "kurmasana_mudra",
+    "name": "Kurmasana Mudra",
+    "translation": "Gesto del Asiento de la Tortuga",
+    "category": "Mental Calm",
+    "benefits": "Dirige los estímulos sensoriales hacia el interior, bloquea las distracciones y ayuda a la introversión.",
+    "steps": [
+      "Siéntate en el suelo, dobla las manos en tu regazo.",
+      "Lleva los pulgares dentro de las palmas y cierra los dedos con fuerza.",
+      "Cruza las muñecas, apoyando las manos en las rodillas."
+    ],
+    "duration": "10-15 minutos al día",
+    "icon": "wrists_crossed_fists"
+  },
+  {
+    "id": "kilaka_mudra",
+    "name": "Kilaka Mudra",
+    "translation": "Gesto de la Llave / Cerrojo",
+    "category": "Brain & Focus",
+    "benefits": "Desbloquea los bloqueos mentales, cura los problemas del habla y fortalece la resolución.",
+    "steps": [
+      "Entrelaza todos los dedos fuertemente.",
+      "Presiona los nudillos firmemente.",
+      "Sostén el gesto a la altura del pecho, respirando profundamente."
+    ],
+    "duration": "10 minutos al día",
+    "icon": "clasp_hands_tight"
+  },
+  {
+    "id": "bandha_mudra",
+    "name": "Bandha Mudra",
+    "translation": "Gesto del Cierre",
+    "category": "Mental Calm",
+    "benefits": "Bloquea la energía dentro del cuerpo, evita la fuga de la fuerza vital y promueve el enraizamiento.",
+    "steps": [
+      "Siéntate erguido, apoya las manos planas sobre tus rodillas.",
+      "Inhala completamente, luego presiona la barbilla con fuerza contra el pecho (Jalandhara Bandha).",
+      "Mantén los brazos rectos y bloqueados en los codos."
+    ],
+    "duration": "Sostén durante 5-10 segundos por ronda",
+    "icon": "lock_pose"
+  }
+]

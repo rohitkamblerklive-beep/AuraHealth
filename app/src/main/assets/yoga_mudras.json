@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "gyan_mudra",
+    "name": "Gyan Mudra",
+    "translation": "Gesture of Knowledge",
+    "category": "Mental Calm",
+    "benefits": "Improves concentration, sharpens memory, reduces stress, and cures insomnia.",
+    "steps": [
+      "Sit in a comfortable yoga posture like Padmasana or Sukhasana.",
+      "Touch the tip of your index finger to the tip of your thumb.",
+      "Keep the other three fingers straight, relaxed, and parallel to each other.",
+      "Place your hands on your knees with the palms facing upwards."
+    ],
+    "duration": "30-45 mins daily (or three 15-min sessions)",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chin_mudra",
+    "name": "Chin Mudra",
+    "translation": "Gesture of Consciousness",
+    "category": "Mental Calm",
+    "benefits": "Enhances focus, connects consciousness, calms the mind, and relieves depression.",
+    "steps": [
+      "Sit upright and place your hands on your thighs.",
+      "Touch the tip of your index finger to the tip of your thumb.",
+      "Keep other three fingers straight but point them downwards toward the earth.",
+      "Close your eyes and focus on your breath."
+    ],
+    "duration": "15-30 mins daily",
+    "icon": "thumb_index_down"
+  },
+  {
+    "id": "dhyana_mudra",
+    "name": "Dhyana Mudra",
+    "translation": "Gesture of Meditation",
+    "category": "Mental Calm",
+    "benefits": "Brings deep concentration, balances right and left brain hemispheres, and brings inner peace.",
+    "steps": [
+      "Sit in Padmasana or Sukhasana.",
+      "Place your right hand on top of your left hand, palms facing up, in your lap.",
+      "Touch the tips of your thumbs together, forming a triangle shape.",
+      "Keep hands relaxed and rest them close to the abdomen."
+    ],
+    "duration": "20-45 mins during meditation",
+    "icon": "palms_stacked"
+  },
+  {
+    "id": "bhairava_mudra",
+    "name": "Bhairava Mudra",
+    "translation": "Fierce Gesture of Shiva",
+    "category": "Mental Calm",
+    "benefits": "Unifies the mind, balances internal energies, and aligns spiritual focus.",
+    "steps": [
+      "Sit comfortably with your spine erect.",
+      "Place your right hand on top of your left hand in your lap, both palms facing upwards.",
+      "Keep thumbs relaxed without touching.",
+      "Focus your mind on the root chakra."
+    ],
+    "duration": "15-30 mins daily",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "anjali_mudra",
+    "name": "Anjali Mudra",
+    "translation": "Gesture of Prayer & Namaste",
+    "category": "Mental Calm",
+    "benefits": "Promotes respect, connects brain hemispheres, and relieves stress.",
+    "steps": [
+      "Bring your palms together in front of your heart center.",
+      "Ensure fingers are pointing straight up, thumbs resting gently on the breastbone.",
+      "Press the outer edges of the palms slightly together.",
+      "Bow your head slightly to seal the gesture."
+    ],
+    "duration": "5-15 mins daily",
+    "icon": "palms_joined"
+  },
+  {
+    "id": "shambhavi_mudra",
+    "name": "Shambhavi Mudra",
+    "translation": "Eyebrow Gazing Gesture",
+    "category": "Mental Calm",
+    "benefits": "Awakens the Ajna (third eye) chakra, increases mental control, and reduces anxiety.",
+    "steps": [
+      "Sit in a meditative pose with hands in Gyan Mudra on knees.",
+      "Close your eyes, then open them slightly and look upward.",
+      "Focus both eyes on the center between your eyebrows (Bhrumadhya).",
+      "Do not strain your eyes. Relax if you feel pressure."
+    ],
+    "duration": "3-10 mins daily",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "kalesvara_mudra",
+    "name": "Kalesvara Mudra",
+    "translation": "Gesture of the Lord of Time",
+    "category": "Mental Calm",
+    "benefits": "Clears addictive behaviors, sharpens memory, and calms emotional outbursts.",
+    "steps": [
+      "Place the tips of your middle fingers together, pointing straight up.",
+      "Fold other fingers (index, ring, pinky) so their second joints touch.",
+      "Touch the tips of your thumbs together, pointing down towards your chest.",
+      "Breathe slowly and deeply."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "complex_fingers_touching"
+  },
+  {
+    "id": "lotus_mudra",
+    "name": "Lotus Mudra (Padma)",
+    "translation": "Gesture of the Lotus Flower",
+    "category": "Mental Calm",
+    "benefits": "Opens the heart chakra, cultivates love and compassion, and dispels loneliness.",
+    "steps": [
+      "Bring the heels of your palms together near your heart.",
+      "Touch the tips of your pinky fingers and thumbs together.",
+      "Spread your index, middle, and ring fingers wide apart like a blooming lotus.",
+      "Inhale deeply, visualizing purity."
+    ],
+    "duration": "15-30 mins daily",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "yoni_mudra",
+    "name": "Yoni Mudra",
+    "translation": "Gesture of the Womb / Source",
+    "category": "Mental Calm",
+    "benefits": "Detaches from the outer world, balances nervous system, and cultivates female energy.",
+    "steps": [
+      "Clasp your fingers together, palms facing you.",
+      "Extend your index fingers straight down, touching at the tips.",
+      "Extend your thumbs straight up, touching at the tips.",
+      "Interlock other fingers inside the palms."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "womb_shape"
+  },
+  {
+    "id": "abhaya_mudra",
+    "name": "Abhaya Mudra",
+    "translation": "Gesture of Fearlessness",
+    "category": "Mental Calm",
+    "benefits": "Dispels fear, brings emotional security, and invokes peace and divine protection.",
+    "steps": [
+      "Raise your right hand to shoulder height, elbow bent.",
+      "Turn your palm outward, facing forward, fingers pointing straight up.",
+      "Rest your left hand flat on your left lap or knee, palm facing up.",
+      "Breathe steadily, embodying confidence."
+    ],
+    "duration": "10-20 mins daily",
+    "icon": "right_palm_forward"
+  },
+  {
+    "id": "hakini_mudra",
+    "name": "Hakini Mudra",
+    "translation": "Gesture of the Mind",
+    "category": "Brain & Focus",
+    "benefits": "Improves memory, integrates right/left brain hemispheres, and boosts brain power.",
+    "steps": [
+      "Bring your hands in front of your chest.",
+      "Touch the fingertips of your right hand to the corresponding fingertips of the left hand.",
+      "Keep palms apart, forming an open hollow sphere between your hands.",
+      "Place your tongue against the roof of your mouth as you inhale."
+    ],
+    "duration": "30 mins daily (or three 10-min sessions)",
+    "icon": "fingertips_touching"
+  },
+  {
+    "id": "adho_mukha_mudra",
+    "name": "Adho Mukha Mudra",
+    "translation": "Downward Facing Gesture",
+    "category": "Mental Calm",
+    "benefits": "Calms overactive minds, promotes deep grounding, and aids in restful sleep.",
+    "steps": [
+      "Place the backs of your hands together in front of your chest.",
+      "Make sure the backs of the fingers are touching, pointing downwards.",
+      "Rest your thumbs in the center, touching at the sides.",
+      "Relax your shoulders and breathe slowly."
+    ],
+    "duration": "15 mins before bedtime",
+    "icon": "backs_touching"
+  },
+  {
+    "id": "vayu_mudra",
+    "name": "Vayu Mudra",
+    "translation": "Gesture of Air",
+    "category": "Healing & Therapy",
+    "benefits": "Relieves joint pain, arthritis, bloating, and excessive gas in the stomach.",
+    "steps": [
+      "Fold your index finger down to touch the base of your thumb.",
+      "Press the index finger down gently with your thumb.",
+      "Keep the other three fingers extended straight and relaxed.",
+      "Rest your hands on your knees, palms facing up."
+    ],
+    "duration": "30-45 mins daily (or during joint pain attacks)",
+    "icon": "thumb_over_index"
+  },
+  {
+    "id": "shunya_mudra",
+    "name": "Shunya Mudra",
+    "translation": "Gesture of Heaven / Emptiness",
+    "category": "Healing & Therapy",
+    "benefits": "Cures earaches, relieves tinnitus, thyroid issues, and throat problems.",
+    "steps": [
+      "Fold your middle finger down to the base of your thumb.",
+      "Press the middle finger down gently with the thumb.",
+      "Keep the other three fingers straight.",
+      "Practice this on both hands simultaneously."
+    ],
+    "duration": "30-40 mins daily or until earache subsides",
+    "icon": "thumb_over_middle"
+  },
+  {
+    "id": "varuna_mudra",
+    "name": "Varuna Mudra",
+    "translation": "Gesture of Water",
+    "category": "Healing & Therapy",
+    "benefits": "Hydrates dry skin, purifies blood, prevents wrinkles, and cures skin infections.",
+    "steps": [
+      "Touch the tip of your little finger to the tip of your thumb.",
+      "Keep other three fingers straight and relaxed.",
+      "Do not press the pinky finger hard, keep the touch light.",
+      "Sit comfortably and practice with both hands."
+    ],
+    "duration": "30 mins daily",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "linga_mudra",
+    "name": "Linga Mudra",
+    "translation": "Gesture of Heat & Fire",
+    "category": "Healing & Therapy",
+    "benefits": "Generates internal body heat, cures common cold, cough, asthma, and burns fat.",
+    "steps": [
+      "Interlock all fingers of both hands, keeping palms pressed together.",
+      "Keep the left thumb pointing straight upwards.",
+      "Encircle the upright left thumb with the index finger and thumb of the right hand.",
+      "Keep your hands held near the chest."
+    ],
+    "duration": "15-20 mins daily (avoid during fever or acidity)",
+    "icon": "interlocked_thumb_up"
+  },
+  {
+    "id": "shankh_mudra",
+    "name": "Shankh Mudra",
+    "translation": "Conch Shell Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Improves voice clarity, throat thyroid disorders, and stimulates digestion.",
+    "steps": [
+      "Encircle your left thumb with the four fingers of your right hand.",
+      "Touch your right thumb to the tip of your left middle finger.",
+      "Hold hands near your chest, looking like a conch shell.",
+      "Breathe through your nose, focusing on throat."
+    ],
+    "duration": "30-45 mins daily",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "apana_vayu_mudra",
+    "name": "Apana Vayu Mudra",
+    "translation": "Heart Saver / Mrita Sanjeevani",
+    "category": "Heart & Circulation",
+    "benefits": "Strengthens heart muscles, regulates blood pressure, and provides immediate relief from heart attacks.",
+    "steps": [
+      "Fold the index finger down to touch the base of the thumb.",
+      "Touch the tips of the middle and ring fingers to the tip of the thumb.",
+      "Keep the little finger straight.",
+      "Practice on both hands."
+    ],
+    "duration": "30-40 mins daily (crucial emergency mudra)",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "mahasirs_mudra",
+    "name": "Mahasirs Mudra",
+    "translation": "Great Head Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Relieves sinus congestion, tension headaches, and eye strain.",
+    "steps": [
+      "Touch the tips of your thumb, index, and middle fingers together.",
+      "Place your ring finger into the fold at the base of the thumb.",
+      "Keep the little finger extended straight.",
+      "Breathe calmly and relax your forehead."
+    ],
+    "duration": "10-15 mins as needed",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "mukula_mudra",
+    "name": "Mukula Mudra",
+    "translation": "Bud Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Directs healing energy to specific weak organs like liver, spleen, or kidneys.",
+    "steps": [
+      "Bring all four fingertips to touch the tip of the thumb.",
+      "This forms a shape like a closed flower bud.",
+      "Point this bud towards the body part or organ that needs healing.",
+      "Visualize healing green light flowing into that organ."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "all_touching_thumb"
+  },
+  {
+    "id": "suchi_mudra",
+    "name": "Suchi Mudra",
+    "translation": "Needle Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Clears chronic constipation, releases mental blockages, and detoxifies intestines.",
+    "steps": [
+      "Make a fist with both hands.",
+      "Extend your index fingers straight up.",
+      "Extend hands outward from the chest.",
+      "Hold this gesture while focusing on the lower belly."
+    ],
+    "duration": "10-15 mins in the morning",
+    "icon": "fist_index_up"
+  },
+  {
+    "id": "surabhi_mudra",
+    "name": "Surabhi Mudra",
+    "translation": "Wish-Fulfilling Cow Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Balances all five elements in the body, cures joint pain, and improves metabolism.",
+    "steps": [
+      "Touch left little finger to right ring finger tip.",
+      "Touch right little finger to left ring finger tip.",
+      "Touch left middle finger to right index finger tip.",
+      "Touch right middle finger to left index finger tip. Keep thumbs apart."
+    ],
+    "duration": "15-30 mins daily",
+    "icon": "complex_crossed"
+  },
+  {
+    "id": "bhudi_mudra",
+    "name": "Bhudi Mudra",
+    "translation": "Fluid Balance Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Regulates fluid balance, prevents dry eyes, and aids kidney/bladder functions.",
+    "steps": [
+      "Touch the tip of the pinky finger to the tip of the thumb.",
+      "Keep index, middle, and ring fingers straight.",
+      "Sit in a relaxed posture and place your hands on your knees."
+    ],
+    "duration": "30 mins daily",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "granthita_mudra",
+    "name": "Granthita Mudra",
+    "translation": "Knot Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Stimulates the thyroid gland, opens throat chakra, and helps vocal clarity.",
+    "steps": [
+      "Interlock your fingers inside your palms.",
+      "Touch the tips of your index fingers and thumbs together to form two rings.",
+      "Hold the mudra in front of your throat.",
+      "Chant 'HAM' or breathe deeply."
+    ],
+    "duration": "15 mins daily",
+    "icon": "double_rings"
+  },
+  {
+    "id": "prana_mudra",
+    "name": "Prana Mudra",
+    "translation": "Gesture of Life Force",
+    "category": "Energy & Vitality",
+    "benefits": "Boosts immune system, gives instant energy, improves eyesight, and reduces fatigue.",
+    "steps": [
+      "Touch the tips of your ring and little fingers to the tip of your thumb.",
+      "Keep your index and middle fingers extended straight.",
+      "Practice with both hands while sitting or walking."
+    ],
+    "duration": "30-45 mins daily (can be split)",
+    "icon": "thumb_ring_pinky"
+  },
+  {
+    "id": "surya_mudra",
+    "name": "Surya Mudra",
+    "translation": "Gesture of the Sun / Fire",
+    "category": "Energy & Vitality",
+    "benefits": "Boosts thyroid activity, promotes weight loss, reduces cholesterol, and warms the body.",
+    "steps": [
+      "Fold your ring finger to touch the base of the thumb.",
+      "Press the ring finger down gently with your thumb.",
+      "Keep other fingers straight.",
+      "Do this on an empty stomach."
+    ],
+    "duration": "15-30 mins daily (avoid in excessive heat)",
+    "icon": "thumb_over_ring"
+  },
+  {
+    "id": "adi_mudra",
+    "name": "Adi Mudra",
+    "translation": "First / Primordial Gesture",
+    "category": "Brain & Focus",
+    "benefits": "Increases oxygen flow to the brain, expands lung capacity, and calms nervous system.",
+    "steps": [
+      "Place your thumb in the center of your palm.",
+      "Wrap your other four fingers over the thumb to make a gentle fist.",
+      "Rest the fists on your thighs, facing downwards.",
+      "Focus on chest and throat breathing."
+    ],
+    "duration": "20 mins daily",
+    "icon": "thumb_inside_fist"
+  },
+  {
+    "id": "uttarabodhi_mudra",
+    "name": "Uttarabodhi Mudra",
+    "translation": "Highest Enlightenment Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Dispels fear, boosts self-confidence, recharges energy, and stimulates lungs.",
+    "steps": [
+      "Interlock all fingers except index fingers and thumbs.",
+      "Extend your index fingers straight up, touching at the tips.",
+      "Extend your thumbs straight down, touching at the tips.",
+      "Hold hands near your heart."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "pointy_hands"
+  },
+  {
+    "id": "ksepana_mudra",
+    "name": "Ksepana Mudra",
+    "translation": "Gesture of Letting Go",
+    "category": "Energy & Vitality",
+    "benefits": "Expels negative energy, releases toxins via sweat/breath, and relieves tension.",
+    "steps": [
+      "Clasp fingers together, index fingers extended straight, touching at tips.",
+      "Cross your thumbs over each other.",
+      "Point index fingers downward toward the floor to release energy.",
+      "Hold for a few minutes then rest palms up."
+    ],
+    "duration": "5-10 mins daily",
+    "icon": "pointy_down"
+  },
+  {
+    "id": "prithvi_mudra",
+    "name": "Prithvi Mudra",
+    "translation": "Gesture of Earth",
+    "category": "Energy & Vitality",
+    "benefits": "Overcomes fatigue, promotes weight gain in underweight people, and strengthens body tissues.",
+    "steps": [
+      "Touch the tip of your ring finger to the tip of your thumb.",
+      "Keep other three fingers straight and relaxed.",
+      "Perform this while sitting in Padmasana."
+    ],
+    "duration": "30-45 mins daily",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "garuda_mudra",
+    "name": "Garuda Mudra",
+    "translation": "Eagle Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Balances energies, alleviates menstrual cramps, and improves blood circulation.",
+    "steps": [
+      "Place your right hand on top of your left hand, palms facing your chest.",
+      "Interlock your thumbs together, forming an eagle wing shape with fingers.",
+      "Spread your fingers wide, simulating wings.",
+      "Hold in front of your lower abdomen, then move to chest."
+    ],
+    "duration": "4 mins, three times a day",
+    "icon": "thumbs_locked_wings"
+  },
+  {
+    "id": "vajra_mudra",
+    "name": "Vajra Mudra",
+    "translation": "Thunderbolt Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Improves low blood pressure, clears dizziness, and stimulates blood circulation.",
+    "steps": [
+      "Point your left index finger straight up.",
+      "Encircle the left index finger with the fingers of your right hand.",
+      "Touch the tip of the right thumb to the tip of the left index finger.",
+      "Hold this near your solar plexus."
+    ],
+    "duration": "15 mins, twice a day",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "makara_mudra",
+    "name": "Makara Mudra",
+    "translation": "Crocodile Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Activates kidney energy, helps fight fatigue, and clears dark circles under eyes.",
+    "steps": [
+      "Place your right hand inside your left hand.",
+      "Slip your right thumb through the pinky and ring finger of your left hand.",
+      "Touch the tip of the right thumb to the tip of the left ring finger.",
+      "Extend your left thumb upwards."
+    ],
+    "duration": "10-15 mins daily",
+    "icon": "complex_crocodile"
+  },
+  {
+    "id": "kurma_mudra",
+    "name": "Kurma Mudra",
+    "translation": "Tortoise Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Grounds active mind, conserves vital energy, and helps quieten thoughts.",
+    "steps": [
+      "Extend fingers, cross right hand over left hand.",
+      "Touch the tips of the thumbs to each other.",
+      "Curve other fingers inwards to represent a tortoise shell.",
+      "Hold in front of the belly."
+    ],
+    "duration": "15 mins daily",
+    "icon": "tortoise_shape"
+  },
+  {
+    "id": "trishula_mudra",
+    "name": "Trishula Mudra",
+    "translation": "Trident Gesture",
+    "category": "Energy & Vitality",
+    "benefits": "Boosts inner power, awakens Kundalini energy, and helps self-defense focus.",
+    "steps": [
+      "Fold the little finger to touch the base of the thumb.",
+      "Keep index, middle, and ring fingers pointing straight up like a trident.",
+      "Hold hands outward near shoulders.",
+      "Breathe forcefully."
+    ],
+    "duration": "10 mins daily",
+    "icon": "trident_fingers"
+  },
+  {
+    "id": "shivalinga_mudra",
+    "name": "Shivalinga Mudra",
+    "translation": "Gesture of Lord Shiva's Energy",
+    "category": "Energy & Vitality",
+    "benefits": "Cures laziness, fills the body with dynamic heat, and stimulates digestive fire.",
+    "steps": [
+      "Make a fist with your right hand, thumb pointing straight up.",
+      "Place the right fist on top of your flat left palm.",
+      "Hold hands near the chest or upper abdomen.",
+      "Practice with deep breathing."
+    ],
+    "duration": "10-15 mins daily (avoid if hot weather)",
+    "icon": "thumb_fist_on_palm"
+  },
+  {
+    "id": "apana_mudra",
+    "name": "Apana Mudra",
+    "translation": "Gesture of Downward Flow",
+    "category": "Digestion & Detox",
+    "benefits": "Clears constipation, removes body toxins, purifies skin, and helps regular bowel movement.",
+    "steps": [
+      "Touch the tips of your middle and ring fingers to the tip of your thumb.",
+      "Keep index and little fingers straight.",
+      "Rest hands on knees with palms facing up.",
+      "Focus on the lower abdomen."
+    ],
+    "duration": "30-45 mins daily",
+    "icon": "thumb_middle_ring"
+  },
+  {
+    "id": "samana_mudra",
+    "name": "Samana Mudra",
+    "translation": "Gesture of Equalizing Flow / Mukul",
+    "category": "Digestion & Detox",
+    "benefits": "Improves overall digestion, balances five elements, and regulates metabolism.",
+    "steps": [
+      "Bring the tips of all five fingers together (thumb, index, middle, ring, pinky).",
+      "They should touch at one point like a closed flower bud.",
+      "Sit relaxed and practice on both hands simultaneously.",
+      "Focus on the navel chakra."
+    ],
+    "duration": "30 mins daily",
+    "icon": "all_fingers_touching"
+  },
+  {
+    "id": "pushpaputa_mudra",
+    "name": "Pushpaputa Mudra",
+    "translation": "Handful of Flowers Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Promotes acceptance, openness, and opens up lungs and chest region.",
+    "steps": [
+      "Place your hands on your thighs, palms facing upwards.",
+      "Bring hands together so their pinky fingers touch at the sides.",
+      "Keep fingers slightly curved as if holding flowers in your palms.",
+      "Breathe deeply."
+    ],
+    "duration": "15 mins daily",
+    "icon": "cupped_palms"
+  },
+  {
+    "id": "mushti_mudra",
+    "name": "Mushti Mudra",
+    "translation": "Fist Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Releases stored anger, irritation, cures constipation, and aids liver digestion.",
+    "steps": [
+      "Fold all your fingers into a fist.",
+      "Place your thumb over your ring finger.",
+      "Hold this gesture with a firm but comfortable pressure.",
+      "Sit quietly and observe your breathing."
+    ],
+    "duration": "15-30 mins daily",
+    "icon": "thumb_over_ring_fist"
+  },
+  {
+    "id": "matangi_mudra",
+    "name": "Matangi Mudra",
+    "translation": "Gesture of Peace & Harmony",
+    "category": "Digestion & Detox",
+    "benefits": "Calms excited heart, relieves tension in stomach, liver, and digestive tracts.",
+    "steps": [
+      "Interlock your fingers at the solar plexus level.",
+      "Extend your middle fingers straight out, touching at the tips.",
+      "Keep all other fingers folded inside.",
+      "Breathe into your stomach."
+    ],
+    "duration": "20 mins daily",
+    "icon": "middle_extended"
+  },
+  {
+    "id": "kartari_mukha_mudra",
+    "name": "Kartari Mukha Mudra",
+    "translation": "Scissors Face Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Stretches hand tendons, helps eye muscles relaxation, and releases neck tension.",
+    "steps": [
+      "Touch the tips of your ring and little finger to the tip of your thumb.",
+      "Extend the index and middle fingers straight up like scissors.",
+      "Separate index and middle fingers wide apart.",
+      "Hold hands near ears or shoulders."
+    ],
+    "duration": "15 mins daily",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "mayura_mudra",
+    "name": "Mayura Mudra",
+    "translation": "Peacock Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Strengthens wrists, improves skin radiance, and activates solar plexus energy.",
+    "steps": [
+      "Touch the tip of your ring finger to the tip of your thumb.",
+      "Fold the index, middle, and little fingers straight up, separate them.",
+      "Hold hands pointing outward like a peacock tail.",
+      "Practice with closed eyes."
+    ],
+    "duration": "10-20 mins daily",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "simha_mudra",
+    "name": "Simha Mudra",
+    "translation": "Lion Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Clears throat infections, thyroid problems, cures stuttering, and strengthens facial muscles.",
+    "steps": [
+      "Sit on your heels (Vajrasana), knees spread apart.",
+      "Place your palms on your thighs, fingers spread wide apart.",
+      "Lean forward, open your mouth, stretch your tongue out towards the chin.",
+      "Exhale forcefully with a 'HA' sound, looking at your third eye."
+    ],
+    "duration": "3-6 repetitions daily",
+    "icon": "lion_pose"
+  },
+  {
+    "id": "jnana_mudra",
+    "name": "Jnana Mudra",
+    "translation": "Gesture of Wisdom",
+    "category": "Brain & Focus",
+    "benefits": "Improves brain power, boosts nervous system health, and clears confusion.",
+    "steps": [
+      "Touch the tip of your index finger to the tip of your thumb.",
+      "Keep other fingers straight.",
+      "Place your hands on your knees, palms facing DOWNWARDS.",
+      "Breathe deeply through your chest."
+    ],
+    "duration": "30 mins daily",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chinmaya_mudra",
+    "name": "Chinmaya Mudra",
+    "translation": "Gesture of Manifested Awareness",
+    "category": "Brain & Focus",
+    "benefits": "Improves breathing in middle lobes of the lungs, calms anxiety, and clears thinking.",
+    "steps": [
+      "Touch the tip of your index finger to the tip of your thumb.",
+      "Curl your middle, ring, and little fingers into your palms.",
+      "Rest the hands on your knees with palms facing upwards.",
+      "Breathe deeply."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "thumb_index_curled"
+  },
+  {
+    "id": "vyana_mudra",
+    "name": "Vyana Mudra",
+    "translation": "Gesture of Expansive Flow",
+    "category": "Heart & Circulation",
+    "benefits": "Regulates blood pressure (high or low), clears fatigue, and improves blood circulation.",
+    "steps": [
+      "Touch the tips of your index and middle fingers to the tip of your thumb.",
+      "Keep the ring and little fingers straight.",
+      "Rest hands on knees, palms facing up."
+    ],
+    "duration": "20-30 mins daily",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "udana_mudra",
+    "name": "Udana Mudra",
+    "translation": "Gesture of Upward Flow",
+    "category": "Brain & Focus",
+    "benefits": "Boosts metabolism, helps thyroid issues, improves speech/singing voice, and stimulates brain.",
+    "steps": [
+      "Touch the tips of index, middle, and ring fingers to the tip of your thumb.",
+      "Keep the little finger straight.",
+      "Rest hands on knees."
+    ],
+    "duration": "25 mins daily",
+    "icon": "thumb_three_fingers"
+  },
+  {
+    "id": "akash_mudra",
+    "name": "Akash Mudra",
+    "translation": "Gesture of Space",
+    "category": "Brain & Focus",
+    "benefits": "Strengthens bones, cures ear problems, removes negative thoughts, and opens space chakra.",
+    "steps": [
+      "Touch the tip of your middle finger to the tip of your thumb.",
+      "Keep index, ring, and little fingers straight.",
+      "Practice on both hands, facing upwards."
+    ],
+    "duration": "30 mins daily",
+    "icon": "thumb_middle"
+  },
+  {
+    "id": "kartari_mudra",
+    "name": "Kartari Mudra",
+    "translation": "Scissors Gesture",
+    "category": "Brain & Focus",
+    "benefits": "Boosts focus, coordinates hand eye movement, and stimulates nervous pathways.",
+    "steps": [
+      "Touch thumb to the tips of ring and little finger.",
+      "Extend index and middle finger up.",
+      "Separate the extended fingers."
+    ],
+    "duration": "15 mins daily",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "shankhini_mudra",
+    "name": "Shankhini Mudra",
+    "translation": "Conch Shell Flow Gesture",
+    "category": "Brain & Focus",
+    "benefits": "Balances throat chakra, improves speech clarity, and aids vocal power.",
+    "steps": [
+      "Encircle left thumb with right fingers.",
+      "Touch left index to right thumb.",
+      "Breathe through your throat, humming softly."
+    ],
+    "duration": "15 mins daily",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "hridaya_mudra",
+    "name": "Hridaya Mudra",
+    "translation": "Heart Gesture",
+    "category": "Heart & Circulation",
+    "benefits": "Releases pent up emotions, clears heart blockages, and regulates blood pressure.",
+    "steps": [
+      "Place index finger tip at the base of the thumb.",
+      "Touch middle and ring finger tips to the tip of the thumb.",
+      "Keep pinky finger straight."
+    ],
+    "duration": "20-30 mins daily",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "merudanda_mudra",
+    "name": "Merudanda Mudra",
+    "translation": "Spinal Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Relieves back pain, straightens spine posture, and increases lung capacity.",
+    "steps": [
+      "Fold all fingers into palms, pointing thumbs up.",
+      "Extend thumbs straight up.",
+      "Rest hands on knees, thumbs pointing towards each other."
+    ],
+    "duration": "15 mins daily",
+    "icon": "thumbs_up"
+  },
+  {
+    "id": "pankaj_mudra",
+    "name": "Pankaj Mudra",
+    "translation": "Lotus Petals Openness",
+    "category": "Mental Calm",
+    "benefits": "Expels feelings of hopelessness, opens heart to love and joy.",
+    "steps": [
+      "Touch palms together at base.",
+      "Separate middle fingers, keep pinkies and thumbs touching.",
+      "Open fingers wide like a flower."
+    ],
+    "duration": "15 mins daily",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "brahmara_mudra",
+    "name": "Brahmara Mudra",
+    "translation": "Bee Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Improves immune system, cures allergies, running nose, and sneezing.",
+    "steps": [
+      "Place index finger inside the fold of the thumb.",
+      "Touch tip of thumb to the tip of the middle finger.",
+      "Keep ring and little finger straight."
+    ],
+    "duration": "15 mins, three times a day",
+    "icon": "bee_shape"
+  },
+  {
+    "id": "shankha_vayu_mudra",
+    "name": "Shankha Vayu Mudra",
+    "translation": "Conch Air Gesture",
+    "category": "Digestion & Detox",
+    "benefits": "Stimulates intestines, balances throat chakra, and helps digest heavy foods.",
+    "steps": [
+      "Encircle left thumb with right fingers.",
+      "Touch right thumb to left index and middle finger tips.",
+      "Hold in front of belly."
+    ],
+    "duration": "20 mins daily",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "khechari_hridaya_mudra",
+    "name": "Khechari Hridaya Mudra",
+    "translation": "Heart Meditation Gesture",
+    "category": "Mental Calm",
+    "benefits": "Brings deep state of trance, slows down pulse, and brings inner silence.",
+    "steps": [
+      "Place right hand over left hand on the heart center.",
+      "Touch thumbs to index fingers.",
+      "Roll your tongue up to touch the soft palate."
+    ],
+    "duration": "10 mins in meditation",
+    "icon": "palms_stacked_heart"
+  },
+  {
+    "id": "agochari_mudra",
+    "name": "Agochari Mudra",
+    "translation": "Nose-tip Gazing Gesture",
+    "category": "Brain & Focus",
+    "benefits": "Develops deep concentration, activates Muladhara (root) chakra, and stabilizes the mind.",
+    "steps": [
+      "Sit in meditative posture.",
+      "Focus your eyes on the tip of your nose.",
+      "Breathe slowly, holding the focus."
+    ],
+    "duration": "5 mins daily",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "bhuchari_mudra",
+    "name": "Bhuchari Mudra",
+    "translation": "Gazing into the Void",
+    "category": "Mental Calm",
+    "benefits": "Enters a state of zero thoughts, calms brain activity, and relaxes nervous system.",
+    "steps": [
+      "Hold your right hand in front of your face, looking at your pinky finger.",
+      "Slowly lower your hand, but keep your eyes focused on that same empty space.",
+      "Observe the empty space in front of you."
+    ],
+    "duration": "5-10 mins daily",
+    "icon": "gaze_void"
+  },
+  {
+    "id": "tse_mudra",
+    "name": "Tse Mudra",
+    "translation": "Gesture of the Three Secrets",
+    "category": "Mental Calm",
+    "benefits": "Banishes sadness, protects against bad luck, and reduces depression.",
+    "steps": [
+      "Place the tip of your thumb at the base of the little finger.",
+      "Wrap other four fingers over the thumb to make a fist.",
+      "Place hands on thighs, breathing deeply."
+    ],
+    "duration": "15 mins daily",
+    "icon": "thumb_inside_pinky_fist"
+  },
+  {
+    "id": "kubera_mudra",
+    "name": "Kubera Mudra",
+    "translation": "Gesture of Wealth & Focus",
+    "category": "Brain & Focus",
+    "benefits": "Gives confidence, clears sinuses, and helps focus on personal goals.",
+    "steps": [
+      "Touch the tips of your thumb, index, and middle fingers together.",
+      "Fold your ring and little finger into the palm.",
+      "Formulate your wish or goal in your mind while holding."
+    ],
+    "duration": "15-20 mins daily",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "matsya_mudra",
+    "name": "Matsya Mudra",
+    "translation": "Fish Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Stretches wrist joints, helps ease osteoarthritis pain, and calms breathing.",
+    "steps": [
+      "Place right hand flat on top of the left hand, facing down.",
+      "Extend thumbs outward like fish fins.",
+      "Hold hands near your solar plexus."
+    ],
+    "duration": "15 mins daily",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "varada_mudra",
+    "name": "Varada Mudra",
+    "translation": "Gesture of Blessings & Charity",
+    "category": "Mental Calm",
+    "benefits": "Develops compassion, forgiveness, and connects with spiritual sharing.",
+    "steps": [
+      "Extend your left hand downward, palm facing forward.",
+      "Point fingers pointing down towards the earth.",
+      "Rest the right hand on your thigh or in Gyan Mudra."
+    ],
+    "duration": "10 mins daily",
+    "icon": "left_palm_down"
+  },
+  {
+    "id": "rudra_mudra",
+    "name": "Rudra Mudra",
+    "translation": "Gesture of Cosmic Ruler / Solar Plexus",
+    "category": "Energy & Vitality",
+    "benefits": "Regulates blood flow, relieves dizziness, and activates solar plexus chakra.",
+    "steps": [
+      "Touch the tips of your index and ring fingers to the tip of your thumb.",
+      "Keep middle and little fingers straight."
+    ],
+    "duration": "20 mins daily",
+    "icon": "thumb_index_ring"
+  },
+  {
+    "id": "kundalini_mudra",
+    "name": "Kundalini Mudra",
+    "translation": "Gesture of Spiritual Energy",
+    "category": "Energy & Vitality",
+    "benefits": "Balances sexual energy, unifies dualities, and enhances spiritual awakening.",
+    "steps": [
+      "Form a loose fist with both hands.",
+      "Extend your left index finger straight up into the bottom of the right fist.",
+      "Encircle the left index finger with right fingers.",
+      "Touch the tip of the right thumb to the tip of the left index finger."
+    ],
+    "duration": "15 mins, three times a day",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "pushan_mudra",
+    "name": "Pushan Mudra",
+    "translation": "Gesture of Digestion & Nourishment",
+    "category": "Digestion & Detox",
+    "benefits": "Aids digestion, increases food assimilation, and clears stomach bloating.",
+    "steps": [
+      "Right Hand: Touch tips of index and middle fingers to the tip of your thumb.",
+      "Left Hand: Touch tips of middle and ring fingers to the tip of your thumb.",
+      "Keep other fingers straight and rest hands on thighs."
+    ],
+    "duration": "30 mins daily",
+    "icon": "pushan_hand_shapes"
+  },
+  {
+    "id": "shankhamukhi_mudra",
+    "name": "Shankhamukhi Mudra",
+    "translation": "Conch Mouth Gesture",
+    "category": "Healing & Therapy",
+    "benefits": "Cures speech defects, throat hoarseness, and stimulates vocal cords.",
+    "steps": [
+      "Clasp hands so fingers wrap around opposite thumbs.",
+      "Touch index fingers to opposite thumbs.",
+      "Blow gently through the opening between hands if doing breath practice."
+    ],
+    "duration": "15 mins daily",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "kurmasana_mudra",
+    "name": "Kurmasana Mudra",
+    "translation": "Tortoise Seat Gesture",
+    "category": "Mental Calm",
+    "benefits": "Draws sensory inputs inward, shuts out distractions, and helps introversion.",
+    "steps": [
+      "Sit flat on the floor, fold hands in your lap.",
+      "Bring thumbs inside the palms and close fingers tightly.",
+      "Cross wrists, resting hands on knees."
+    ],
+    "duration": "10-15 mins daily",
+    "icon": "wrists_crossed_fists"
+  },
+  {
+    "id": "kilaka_mudra",
+    "name": "Kilaka Mudra",
+    "translation": "Key / Bolt Gesture",
+    "category": "Brain & Focus",
+    "benefits": "Unlocks mental blockage, cures speech problems, and strengthens resolve.",
+    "steps": [
+      "Interlock all fingers tightly.",
+      "Press the knuckles together firmly.",
+      "Hold the gesture at the chest level, breathing deeply."
+    ],
+    "duration": "10 mins daily",
+    "icon": "clasp_hands_tight"
+  },
+  {
+    "id": "bandha_mudra",
+    "name": "Bandha Mudra",
+    "translation": "Lock Gesture",
+    "category": "Mental Calm",
+    "benefits": "Locks energy within the body, prevents leakage of life force, and grounding.",
+    "steps": [
+      "Sit upright, rest hands flat on your knees.",
+      "Inhale fully, then press chin tightly down to chest (Jalandhara Bandha).",
+      "Keep arms straight and locked at elbows."
+    ],
+    "duration": "Hold for 5-10 seconds per round",
+    "icon": "lock_pose"
+  }
+]

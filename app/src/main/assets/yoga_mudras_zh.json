@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "gyan_mudra",
+    "name": "智慧手印",
+    "translation": "知识之印",
+    "category": "Mental Calm",
+    "benefits": "提高专注力，增强记忆力，减轻压力并缓解失眠。",
+    "steps": [
+      "以舒适的瑜伽姿势坐好，如莲花坐或简易坐。",
+      "用食指指尖接触大拇指指尖。",
+      "保持其他三指伸直、放松且相互平行。",
+      "将双手放在膝盖上，掌心向上。"
+    ],
+    "duration": "每天30-45分钟（或分三次，每次15分钟）",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chin_mudra",
+    "name": "意识手印",
+    "translation": "意识之印",
+    "category": "Mental Calm",
+    "benefits": "增强专注力，连接意识，平静心神并缓解抑郁。",
+    "steps": [
+      "端坐并将双手放在大腿上。",
+      "用食指指尖接触大拇指指尖。",
+      "保持其他三指伸直，但指向下方，朝向地面。",
+      "闭上眼睛，专注于呼吸。"
+    ],
+    "duration": "每天15-30分钟",
+    "icon": "thumb_index_down"
+  },
+  {
+    "id": "dhyana_mudra",
+    "name": "禅定手印",
+    "translation": "冥想之印",
+    "category": "Mental Calm",
+    "benefits": "带来深度的专注，平衡左右脑，带来内心平静。",
+    "steps": [
+      "以莲花坐或简易坐坐好。",
+      "将右手放在左手上方，掌心向上，置于大腿上。",
+      "将大拇指指尖相触，形成一个三角形。",
+      "保持双手放松，贴近腹部。"
+    ],
+    "duration": "冥想期间20-45分钟",
+    "icon": "palms_stacked"
+  },
+  {
+    "id": "bhairava_mudra",
+    "name": "忿怒手印",
+    "translation": "湿婆之忿怒之印",
+    "category": "Mental Calm",
+    "benefits": "统一思想，平衡内在能量，并调整精神专注力。",
+    "steps": [
+      "舒适地坐着，脊柱挺直。",
+      "将右手放在左手上方置于大腿上，两掌心向上。",
+      "保持大拇指放松，不接触。",
+      "将注意力集中在海底轮。"
+    ],
+    "duration": "每天15-30分钟",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "anjali_mudra",
+    "name": "合十手印",
+    "translation": "祈祷与问候之印",
+    "category": "Mental Calm",
+    "benefits": "促进尊重，连接左右脑，并缓解压力。",
+    "steps": [
+      "双手合十置于心轮前。",
+      "确保手指直立向上，大拇指轻轻抵在胸骨上。",
+      "将手掌外缘稍微靠拢压紧。",
+      "微低头以完成此手印。"
+    ],
+    "duration": "每天5-15分钟",
+    "icon": "palms_joined"
+  },
+  {
+    "id": "shambhavi_mudra",
+    "name": "凝视眉心手印",
+    "translation": "凝视眉心之印",
+    "category": "Mental Calm",
+    "benefits": "唤醒眉心轮（第三只眼），增强意志控制，减轻焦虑。",
+    "steps": [
+      "以冥想姿势坐好，双手呈智慧手印放在膝盖上。",
+      "闭上眼睛，然后稍微睁开并向上看。",
+      "双眼聚焦在两眉之间（眉心）。",
+      "不要让眼睛过度疲劳。如果感到压力，请放松。"
+    ],
+    "duration": "每天3-10分钟",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "kalesvara_mudra",
+    "name": "时神手印",
+    "translation": "时间之神之印",
+    "category": "Mental Calm",
+    "benefits": "消除成瘾行为，提高记忆力，并平息情绪爆发。",
+    "steps": [
+      "将中指指尖相触，直立向上。",
+      "折叠其他手指（食指、无名指、小指），使其第二关节相触。",
+      "将大拇指指尖相触，指向胸部。",
+      "缓慢而深沉地呼吸。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "complex_fingers_touching"
+  },
+  {
+    "id": "lotus_mudra",
+    "name": "莲花手印",
+    "translation": "莲花之印",
+    "category": "Mental Calm",
+    "benefits": "开启心轮，培养爱与慈悲，并消除孤独感。",
+    "steps": [
+      "双手掌根在心轮附近并拢。",
+      "将小指和大拇指的指尖相触。",
+      "将食指、中指和无名指像盛开的莲花一样张开。",
+      "深吸气，想象纯洁的画面。"
+    ],
+    "duration": "每天15-30分钟",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "yoni_mudra",
+    "name": "子宫手印",
+    "translation": "子宫/源泉之印",
+    "category": "Mental Calm",
+    "benefits": "脱离外界纷扰，平衡神经系统，并培养女性能量。",
+    "steps": [
+      "手指交叉，掌心朝向自己。",
+      "食指直立向下延伸，指尖相触。",
+      "大拇指直立向上延伸，指尖相触。",
+      "将其他手指扣在手掌内侧。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "womb_shape"
+  },
+  {
+    "id": "abhaya_mudra",
+    "name": "无畏手印",
+    "translation": "无畏之印",
+    "category": "Mental Calm",
+    "benefits": "驱散恐惧，带来情绪上的安全感，并祈求和平与神圣庇护。",
+    "steps": [
+      "抬起右手至肩高，弯曲肘部。",
+      "将手掌转向外侧面向前方，手指直立向上。",
+      "将左手平放在左大腿或膝盖上，掌心向上。",
+      "平稳呼吸，体现出自信。"
+    ],
+    "duration": "每天10-20分钟",
+    "icon": "right_palm_forward"
+  },
+  {
+    "id": "hakini_mudra",
+    "name": "哈基尼手印",
+    "translation": "心智之印",
+    "category": "Brain & Focus",
+    "benefits": "改善记忆，整合左右脑半球，并提升脑力。",
+    "steps": [
+      "将双手置于胸前。",
+      "用右手手指指尖接触左手对应的手指指尖。",
+      "保持手掌分开，在双手之间形成一个中空圆球。",
+      "吸气时将舌头抵在上颚。"
+    ],
+    "duration": "每天30分钟（或分三次，每次10分钟）",
+    "icon": "fingertips_touching"
+  },
+  {
+    "id": "adho_mukha_mudra",
+    "name": "下垂手印",
+    "translation": "向下之印",
+    "category": "Mental Calm",
+    "benefits": "平静过度活跃的大脑，促进身心深度接地，并有助于安稳睡眠。",
+    "steps": [
+      "在胸前将双手手背相贴。",
+      "确保手指背面接触，指向下方。",
+      "将大拇指放在中间，侧面相触。",
+      "放松肩膀，缓慢呼吸。"
+    ],
+    "duration": "睡前15分钟",
+    "icon": "backs_touching"
+  },
+  {
+    "id": "vayu_mudra",
+    "name": "风手印",
+    "translation": "风（空气）之印",
+    "category": "Healing & Therapy",
+    "benefits": "缓解关节疼痛、关节炎、腹胀和胃部胀气。",
+    "steps": [
+      "折叠食指接触大拇指基部。",
+      "用大拇指轻轻压住食指。",
+      "保持其他三指平直延伸且放松。",
+      "将双手放在膝盖上，掌心向上。"
+    ],
+    "duration": "每天30-45分钟（或在关节疼痛发作时）",
+    "icon": "thumb_over_index"
+  },
+  {
+    "id": "shunya_mudra",
+    "name": "虚空手印",
+    "translation": "天堂/虚空之印",
+    "category": "Healing & Therapy",
+    "benefits": "治疗耳朵疼痛，缓解耳鸣、甲状腺问题和喉咙问题。",
+    "steps": [
+      "折叠中指接触大拇指基部。",
+      "用大拇指轻轻压住中指。",
+      "保持其他三指伸直。",
+      "双手同时练习。"
+    ],
+    "duration": "每天30-40分钟，或直至耳痛消退",
+    "icon": "thumb_over_middle"
+  },
+  {
+    "id": "varuna_mudra",
+    "name": "水手印",
+    "translation": "水神之印",
+    "category": "Healing & Therapy",
+    "benefits": "滋润干燥皮肤，净化血液，预防皱纹并治疗皮肤感染。",
+    "steps": [
+      "用小指指尖接触大拇指指尖。",
+      "保持其他三指伸直并放松。",
+      "不要用力按压小指，保持轻柔接触。",
+      "舒适地坐着，双手同时练习。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "linga_mudra",
+    "name": "林伽手印",
+    "translation": "热量与火焰之印",
+    "category": "Healing & Therapy",
+    "benefits": "产生体内热量，治疗感冒、咳嗽、哮喘并燃烧脂肪。",
+    "steps": [
+      "双手十指交叉，掌心紧贴。",
+      "保持左手大拇指直立向上。",
+      "用右手的食指和大拇指环绕直立的左手大拇指。",
+      "双手保持在胸部附近。"
+    ],
+    "duration": "每天15-20分钟（发烧或胃酸过多时避免练习）",
+    "icon": "interlocked_thumb_up"
+  },
+  {
+    "id": "shankh_mudra",
+    "name": "贝壳手印",
+    "translation": "贝壳之印",
+    "category": "Healing & Therapy",
+    "benefits": "改善声音清晰度，缓解喉咙与甲状腺失调，并促进消化。",
+    "steps": [
+      "用右手四指环绕左手大拇指。",
+      "将右手大拇指接触左手中指指尖。",
+      "将双手置于胸前，形似贝壳。",
+      "用鼻子呼吸，注意力集中在喉咙。"
+    ],
+    "duration": "每天30-45分钟",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "apana_vayu_mudra",
+    "name": "救心手印",
+    "translation": "心脏救星/起死回生之印",
+    "category": "Heart & Circulation",
+    "benefits": "加强心肌，调节血压，并对心脏病发作提供即时缓解。",
+    "steps": [
+      "折叠食指接触大拇指基部。",
+      "将中指和无名指的指尖接触大拇指指尖。",
+      "保持小指伸直。",
+      "双手同时练习。"
+    ],
+    "duration": "每天30-40分钟（至关重要的急救手印）",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "mahasirs_mudra",
+    "name": "大头手印",
+    "translation": "大头之印",
+    "category": "Healing & Therapy",
+    "benefits": "缓解鼻窦充血、紧张性头痛和眼睛疲劳。",
+    "steps": [
+      "将大拇指、食指和中指的指尖相触。",
+      "将无名指放在大拇指基部的折叠处。",
+      "保持小指直立延伸。",
+      "平静呼吸并放松额头。"
+    ],
+    "duration": "根据需要进行10-15分钟",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "mukula_mudra",
+    "name": "花蕾手印",
+    "translation": "花蕾之印",
+    "category": "Healing & Therapy",
+    "benefits": "将疗愈能量引导至特定的虚弱器官，如肝脏、脾脏或肾脏。",
+    "steps": [
+      "将四个手指的指尖全部接触大拇指指尖。",
+      "这形成一个类似闭合花蕾的形状。",
+      "将此花蕾指向需要疗愈的身体部位或器官。",
+      "想象绿色的疗愈之光流入该器官。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "all_touching_thumb"
+  },
+  {
+    "id": "suchi_mudra",
+    "name": "针手印",
+    "translation": "针之印",
+    "category": "Healing & Therapy",
+    "benefits": "缓解慢性便秘，释放心理障碍，并净化肠道毒素。",
+    "steps": [
+      "双手握拳。",
+      "将食指直立向上延伸。",
+      "双手从胸部向外伸出。",
+      "保持此手印，同时专注于下腹部。"
+    ],
+    "duration": "早上10-15分钟",
+    "icon": "fist_index_up"
+  },
+  {
+    "id": "surabhi_mudra",
+    "name": "如意牛手印",
+    "translation": "如意神牛之印",
+    "category": "Healing & Therapy",
+    "benefits": "平衡体内的所有五大元素，治疗关节疼痛，并改善新陈代谢。",
+    "steps": [
+      "用左手小指接触右手无名指指尖。",
+      "用右手小指接触左手无名指指尖。",
+      "用左手中指接触右手食指指尖。",
+      "用右手中指接触左手食指指尖。保持大拇指分开。"
+    ],
+    "duration": "每天15-30分钟",
+    "icon": "complex_crossed"
+  },
+  {
+    "id": "bhudi_mudra",
+    "name": "液体平衡手印",
+    "translation": "液体平衡之印",
+    "category": "Healing & Therapy",
+    "benefits": "调节体内液体平衡，预防眼睛干涩，并辅助肾脏/膀胱功能。",
+    "steps": [
+      "用小指指尖接触大拇指指尖。",
+      "保持食指、中指和无名指伸直。",
+      "以放松的姿势坐着，将双手放在膝盖上。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "granthita_mudra",
+    "name": "结手印",
+    "translation": "结之印",
+    "category": "Healing & Therapy",
+    "benefits": "刺激甲状腺，开启喉轮，并有助于发音清晰。",
+    "steps": [
+      "将手指交扣在手掌内侧。",
+      "将食指和大拇指指尖相触，形成两个圆环。",
+      "将手印置于喉咙前方。",
+      "吟诵“HAM”或深呼吸。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "double_rings"
+  },
+  {
+    "id": "prana_mudra",
+    "name": "生命能量手印",
+    "translation": "生命力之印",
+    "category": "Energy & Vitality",
+    "benefits": "增强免疫系统，提供即时能量，改善视力并减轻疲劳。",
+    "steps": [
+      "用无名指和小指的指尖接触大拇指指尖。",
+      "保持食指和中指直立延伸。",
+      "坐着或行走时双手同时练习。"
+    ],
+    "duration": "每天30-45分钟（可分次练习）",
+    "icon": "thumb_ring_pinky"
+  },
+  {
+    "id": "surya_mudra",
+    "name": "太阳手印",
+    "translation": "太阳/火焰之印",
+    "category": "Energy & Vitality",
+    "benefits": "促进甲状腺活动，促进减肥，降低胆固醇并温暖身体。",
+    "steps": [
+      "折叠无名指接触大拇指基部。",
+      "用大拇指轻轻压住无名指。",
+      "保持其他手指伸直。",
+      "在空腹时练习此手印。"
+    ],
+    "duration": "每天15-30分钟（在过度炎热时避免练习）",
+    "icon": "thumb_over_ring"
+  },
+  {
+    "id": "adi_mudra",
+    "name": "元初手印",
+    "translation": "第一/元初之印",
+    "category": "Brain & Focus",
+    "benefits": "增加脑部氧气流量，扩张肺活量，并平静神经系统。",
+    "steps": [
+      "将大拇指放在掌心中央。",
+      "将其他四个手指包裹在大拇指上，形成一个轻柔的拳头。",
+      "将拳头放在大腿上，朝下放置。",
+      "专注于胸部和喉部呼吸。"
+    ],
+    "duration": "每天20分钟",
+    "icon": "thumb_inside_fist"
+  },
+  {
+    "id": "uttarabodhi_mudra",
+    "name": "大觉悟手印",
+    "translation": "最高觉悟之印",
+    "category": "Energy & Vitality",
+    "benefits": "消除恐惧，增强自信，补充能量并刺激肺部。",
+    "steps": [
+      "交叉扣紧除食指和大拇指以外的所有手指。",
+      "食指直立向上延伸，指尖相触。",
+      "大拇指直立向下延伸，指尖相触。",
+      "双手保持在心脏附近。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "pointy_hands"
+  },
+  {
+    "id": "ksepana_mudra",
+    "name": "放手手印",
+    "translation": "放手/排毒之印",
+    "category": "Energy & Vitality",
+    "benefits": "排出负面能量，通过汗水/呼吸释放负面能量，并缓解紧张。",
+    "steps": [
+      "双手手指交叉，食指直立延伸，指尖相触。",
+      "将大拇指交叉叠放。",
+      "食指指向地面以释放能量。",
+      "保持几分钟，然后掌心向上放松。"
+    ],
+    "duration": "每天5-10分钟",
+    "icon": "pointy_down"
+  },
+  {
+    "id": "prithvi_mudra",
+    "name": "土手印",
+    "translation": "大地之印",
+    "category": "Energy & Vitality",
+    "benefits": "克服疲劳，促进偏瘦人群增加体重，并强化身体组织。",
+    "steps": [
+      "用无名指指尖接触大拇指指尖。",
+      "保持其他三指伸直并放松。",
+      "在双盘莲花坐时练习此手印。"
+    ],
+    "duration": "每天30-45分钟",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "garuda_mudra",
+    "name": "大鹏金翅鸟手印",
+    "translation": "神鹰之印",
+    "category": "Energy & Vitality",
+    "benefits": "平衡能量，缓解痛经，并改善血液循环。",
+    "steps": [
+      "将右手放在左手上方，掌心朝向胸部。",
+      "将大拇指扣在一起，用其他手指形成鹰翼的形状。",
+      "手指张开，模拟翅膀。",
+      "置于下腹部前方，然后移至胸前。"
+    ],
+    "duration": "每天3次，每次4分钟",
+    "icon": "thumbs_locked_wings"
+  },
+  {
+    "id": "vajra_mudra",
+    "name": "金刚手印",
+    "translation": "金刚/雷电之印",
+    "category": "Energy & Vitality",
+    "benefits": "改善低血压，消除头晕，并促进血液循环。",
+    "steps": [
+      "将左手食指直立向上指向。",
+      "用右手的手指环绕左手食指。",
+      "将右手大拇指指尖接触左手食指指尖。",
+      "将此手印保持在太阳神经丛附近。"
+    ],
+    "duration": "每天2次，每次15分钟",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "makara_mudra",
+    "name": "摩竭手印",
+    "translation": "摩伽罗/鳄鱼之印",
+    "category": "Energy & Vitality",
+    "benefits": "激活肾脏能量，帮助对抗疲劳，并消除黑眼圈。",
+    "steps": [
+      "将右手置于左手内侧。",
+      "将右手大拇指穿过左手的小指和无名指。",
+      "将右手大拇指指尖接触左手无名指指尖。",
+      "将左手大拇指向上延伸。"
+    ],
+    "duration": "每天10-15分钟",
+    "icon": "complex_crocodile"
+  },
+  {
+    "id": "kurma_mudra",
+    "name": "乌龟手印",
+    "translation": "乌龟之印",
+    "category": "Energy & Vitality",
+    "benefits": "沉淀活跃的心智，保存生命能量，并有助于平息杂念。",
+    "steps": [
+      "伸展手指，右手交叉重叠在左手上。",
+      "大拇指指尖相触。",
+      "将其他手指弯曲内扣，以代表乌龟壳。",
+      "置于小腹前方。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "tortoise_shape"
+  },
+  {
+    "id": "trishula_mudra",
+    "name": "三叉戟手印",
+    "translation": "三叉戟之印",
+    "category": "Energy & Vitality",
+    "benefits": "提升内在力量，唤醒昆达里尼能量，并帮助集中自卫注意力。",
+    "steps": [
+      "折叠小指接触大拇指基部。",
+      "保持食指、中指和无名指直立向上，状如三叉戟。",
+      "双手向外举在肩膀附近。",
+      "用力呼吸。"
+    ],
+    "duration": "每天10分钟",
+    "icon": "trident_fingers"
+  },
+  {
+    "id": "shivalinga_mudra",
+    "name": "湿婆林伽手印",
+    "translation": "湿婆神能量之印",
+    "category": "Energy & Vitality",
+    "benefits": "消除懒惰，为身体注入动态热量，并刺激消化之火。",
+    "steps": [
+      "右手握拳，大拇指直立向上。",
+      "将右手拳头放在平展的左手掌心上方。",
+      "双手保持在胸部或上腹部附近。",
+      "配合深呼吸练习。"
+    ],
+    "duration": "每天10-15分钟（天气炎热时避免练习）",
+    "icon": "thumb_fist_on_palm"
+  },
+  {
+    "id": "apana_mudra",
+    "name": "阿帕纳手印",
+    "translation": "下行能量之印",
+    "category": "Digestion & Detox",
+    "benefits": "缓解便秘，清除体内毒素，净化皮肤并有助于规律排便。",
+    "steps": [
+      "用中指和无名指的指尖接触大拇指指尖。",
+      "保持食指和小指伸直。",
+      "将双手放在膝盖上，掌心向上。",
+      "专注于下腹部。"
+    ],
+    "duration": "每天30-45分钟",
+    "icon": "thumb_middle_ring"
+  },
+  {
+    "id": "samana_mudra",
+    "name": "萨马纳手印",
+    "translation": "等流能量/花蕾之印",
+    "category": "Digestion & Detox",
+    "benefits": "改善整体消化，平衡五大元素并调节新陈代谢。",
+    "steps": [
+      "将所有五个手指的指尖合拢（大拇指、食指、中指、无名指、小指）。",
+      "它们应该像闭合的花蕾一样接触于一点。",
+      "放松地坐着，双手同时练习。",
+      "专注于脐轮。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "all_fingers_touching"
+  },
+  {
+    "id": "pushpaputa_mudra",
+    "name": "捧花手印",
+    "translation": "手捧鲜花之印",
+    "category": "Digestion & Detox",
+    "benefits": "促进接纳和开放态度，并打开肺部和胸部区域。",
+    "steps": [
+      "将双手放在大腿上，掌心向上。",
+      "将双手并拢，使其小指侧面相碰。",
+      "保持手指微微弯曲，仿佛在掌中捧着鲜花。",
+      "深呼吸。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "cupped_palms"
+  },
+  {
+    "id": "mushti_mudra",
+    "name": "拳头手印",
+    "translation": "拳头之印",
+    "category": "Digestion & Detox",
+    "benefits": "释放积压的愤怒、烦躁情绪，缓解便秘并辅助肝脏消化。",
+    "steps": [
+      "将所有手指握成拳头。",
+      "将大拇指叠放在无名指上。",
+      "保持此手印，力度稳固但感觉舒适。",
+      "静坐并观察呼吸。"
+    ],
+    "duration": "每天15-30分钟",
+    "icon": "thumb_over_ring_fist"
+  },
+  {
+    "id": "matangi_mudra",
+    "name": "马唐吉手印",
+    "translation": "和平与和谐之印",
+    "category": "Digestion & Detox",
+    "benefits": "抚平情绪，缓解胃部、肝脏和消化道的紧张情绪。",
+    "steps": [
+      "在太阳神经丛高度将十指交叉。",
+      "中指直立向前延伸，指尖相触。",
+      "保持所有其他手指内折。",
+      "将呼吸带入腹部。"
+    ],
+    "duration": "每天20分钟",
+    "icon": "middle_extended"
+  },
+  {
+    "id": "kartari_mukha_mudra",
+    "name": "剪刀手印",
+    "translation": "剪刀面部之印",
+    "category": "Digestion & Detox",
+    "benefits": "拉伸手部肌腱，帮助眼部肌肉放松，并释放颈部紧张。",
+    "steps": [
+      "用无名指和小指的指尖接触大拇指指尖。",
+      "将食指和中指直立向上延伸，形如剪刀。",
+      "将食指和中指大张分开。",
+      "将手举在耳朵或肩膀附近。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "mayura_mudra",
+    "name": "孔雀手印",
+    "translation": "孔雀之印",
+    "category": "Digestion & Detox",
+    "benefits": "强健手腕，提升皮肤光泽，并激活太阳神经丛能量。",
+    "steps": [
+      "用无名指指尖接触大拇指指尖。",
+      "将食指、中指和小指向上并直立折叠，彼此分开。",
+      "保持双手指向外侧，状如孔雀开屏的尾羽。",
+      "闭上眼睛练习。"
+    ],
+    "duration": "每天10-20分钟",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "simha_mudra",
+    "name": "狮子手印",
+    "translation": "狮子之印",
+    "category": "Digestion & Detox",
+    "benefits": "清除喉咙感染，改善甲状腺问题，纠正口吃，并强健面部肌肉。",
+    "steps": [
+      "跪坐在脚跟上（金刚坐），双膝分开。",
+      "将手掌放在大腿上，手指大张分开。",
+      "身体前倾，张开嘴，舌头向下巴方向伸出。",
+      "用力呼气发出“哈”声，凝视眉心第三只眼。"
+    ],
+    "duration": "每天重复3-6次",
+    "icon": "lion_pose"
+  },
+  {
+    "id": "jnana_mudra",
+    "name": "契手印",
+    "translation": "智慧之印",
+    "category": "Brain & Focus",
+    "benefits": "提升脑力，增强神经系统健康，并消除困惑。",
+    "steps": [
+      "用食指指尖接触大拇指指尖。",
+      "保持其他手指伸直。",
+      "将双手放在膝盖上，掌心向下。",
+      "通过胸部深呼吸。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chinmaya_mudra",
+    "name": "具相意识手印",
+    "translation": "显化意识之印",
+    "category": "Brain & Focus",
+    "benefits": "改善肺中叶的呼吸，平息焦虑并使思维清晰。",
+    "steps": [
+      "用食指指尖接触大拇指指尖。",
+      "将中指、无名指和小指卷回手掌内侧。",
+      "将双手放在膝盖上，掌心向上。",
+      "深呼吸。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "thumb_index_curled"
+  },
+  {
+    "id": "vyana_mudra",
+    "name": "弥散手印",
+    "translation": "遍行/弥散能量之印",
+    "category": "Heart & Circulation",
+    "benefits": "调节血压（偏高或偏低），消除疲劳并改善血液循环。",
+    "steps": [
+      "将食指和中指的指尖接触大拇指指尖。",
+      "保持无名指和小指伸直。",
+      "将双手放在膝盖上，掌心向上。"
+    ],
+    "duration": "每天20-30分钟",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "udana_mudra",
+    "name": "上行手印",
+    "translation": "上行能量之印",
+    "category": "Brain & Focus",
+    "benefits": "促进新陈代谢，改善甲状腺问题，提升说话/唱歌的声音，并刺激大脑。",
+    "steps": [
+      "将食指、中指和无名指的指尖接触大拇指指尖。",
+      "保持小指伸直。",
+      "将双手放在膝盖上。"
+    ],
+    "duration": "每天25分钟",
+    "icon": "thumb_three_fingers"
+  },
+  {
+    "id": "akash_mudra",
+    "name": "虚空手印",
+    "translation": "虚空之印",
+    "category": "Brain & Focus",
+    "benefits": "强健骨骼，治疗耳朵问题，清除消极想法，并打开虚空轮（喉轮）。",
+    "steps": [
+      "用中指指尖接触大拇指指尖。",
+      "保持食指、无名指和小指伸直。",
+      "双手同时练习，掌心向上。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "thumb_middle"
+  },
+  {
+    "id": "kartari_mudra",
+    "name": "剪刀手印",
+    "translation": "剪刀之印",
+    "category": "Brain & Focus",
+    "benefits": "增强专注，协调手眼配合，并刺激神经通路。",
+    "steps": [
+      "大拇指接触无名指和小指的指尖。",
+      "食指和中指直立向上。",
+      "分开直立的手指。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "shankhini_mudra",
+    "name": "贝壳流动手印",
+    "translation": "贝壳流动之印",
+    "category": "Brain & Focus",
+    "benefits": "平衡喉轮，改善说话清晰度，并辅助发声力量。",
+    "steps": [
+      "用右手手指环绕左手大拇指。",
+      "用左手食指接触右手大拇指。",
+      "用喉部呼吸，轻轻哼唱。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "hridaya_mudra",
+    "name": "心脏手印",
+    "translation": "心脏之印",
+    "category": "Heart & Circulation",
+    "benefits": "释放积压的情感，清除心脏阻塞，并调节血压。",
+    "steps": [
+      "将食指指尖置于大拇指基部。",
+      "将中指和无名指的指尖接触大拇指指尖。",
+      "保持小指伸直。"
+    ],
+    "duration": "每天20-30分钟",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "merudanda_mudra",
+    "name": "脊柱手印",
+    "translation": "脊柱之印",
+    "category": "Healing & Therapy",
+    "benefits": "缓解背部疼痛，端正脊柱姿态，并增加肺活量。",
+    "steps": [
+      "将所有手指握回掌心，大拇指指向上方。",
+      "食指等其余四指紧握，大拇指直立向上延伸。",
+      "将双手放在膝盖上，大拇指相互指向。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "thumbs_up"
+  },
+  {
+    "id": "pankaj_mudra",
+    "name": "莲花绽放手印",
+    "translation": "莲花瓣开放之印",
+    "category": "Mental Calm",
+    "benefits": "驱除绝望感，敞开心扉接纳爱与快乐。",
+    "steps": [
+      "手掌基部相碰。",
+      "将中指分开，保持小指和大拇指相碰。",
+      "十指大张，形似花朵开敷。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "brahmara_mudra",
+    "name": "蜜蜂手印",
+    "translation": "黑蜂之印",
+    "category": "Healing & Therapy",
+    "benefits": "改善免疫系统，治疗过敏、流鼻涕和打喷嚏。",
+    "steps": [
+      "将食指置于大拇指的折褶内侧。",
+      "用大拇指指尖接触中指指尖。",
+      "保持无名指和小指伸直。"
+    ],
+    "duration": "每天3次，每次15分钟",
+    "icon": "bee_shape"
+  },
+  {
+    "id": "shankha_vayu_mudra",
+    "name": "海螺风手印",
+    "translation": "贝壳风之印",
+    "category": "Digestion & Detox",
+    "benefits": "刺激肠道，平衡喉轮，并有助于消化油腻难消化的食物。",
+    "steps": [
+      "用右手手指环绕左手大拇指。",
+      "将右手大拇指接触左手食指和中指的指尖。",
+      "置于小腹前方。"
+    ],
+    "duration": "每天20分钟",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "khechari_hridaya_mudra",
+    "name": "心之契合手印",
+    "translation": "心脏冥想之印",
+    "category": "Mental Calm",
+    "benefits": "带来深层的入定状态，减缓脉搏，并带来内心的寂静。",
+    "steps": [
+      "将右手放在左手上，置于心轮中央。",
+      "大拇指接触食指。",
+      "舌头向上卷起，抵住软腭（身空契）。"
+    ],
+    "duration": "冥想期间练习10分钟",
+    "icon": "palms_stacked_heart"
+  },
+  {
+    "id": "agochari_mudra",
+    "name": "凝视鼻尖手印",
+    "translation": "凝视鼻尖之印",
+    "category": "Brain & Focus",
+    "benefits": "培养深层专注力，激活海底轮（根轮），并稳定心神。",
+    "steps": [
+      "以冥想姿势坐好。",
+      "将视线聚焦在鼻尖上。",
+      "缓慢呼吸，保持聚焦。"
+    ],
+    "duration": "每天5分钟",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "bhuchari_mudra",
+    "name": "虚空凝视手印",
+    "translation": "凝视虚空之印",
+    "category": "Mental Calm",
+    "benefits": "进入无念状态，平静大脑活动，并放松神经系统。",
+    "steps": [
+      "将右手举在脸前，注视小指。",
+      "慢慢放下手，但双眼继续凝视刚才小指所在的虚空处。",
+      "观察你面前的虚无空间。"
+    ],
+    "duration": "每天5-10分钟",
+    "icon": "gaze_void"
+  },
+  {
+    "id": "tse_mudra",
+    "name": "三密手印",
+    "translation": "三密之印",
+    "category": "Mental Calm",
+    "benefits": "驱除悲伤，避开厄运，并减少抑郁。",
+    "steps": [
+      "将大拇指指尖置于小指基部。",
+      "将其他四个手指包裹在大拇指上，握成拳头。",
+      "双手放在大腿上，深呼吸。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "thumb_inside_pinky_fist"
+  },
+  {
+    "id": "kubera_mudra",
+    "name": "财神手印",
+    "translation": "财神与专注力之印",
+    "category": "Brain & Focus",
+    "benefits": "带来自信，清理鼻窦，并帮助专注于个人目标。",
+    "steps": [
+      "将大拇指、食指和中指的指尖相触。",
+      "将无名指和小指折入掌心。",
+      "保持此手印的同时，在脑海中默念你的愿望或目标。"
+    ],
+    "duration": "每天15-20分钟",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "matsya_mudra",
+    "name": "鱼手印",
+    "translation": "鱼之印",
+    "category": "Healing & Therapy",
+    "benefits": "拉伸手腕关节，有助于缓解骨关节炎疼痛，并使呼吸平稳。",
+    "steps": [
+      "右手平放在左手上方，掌心朝下。",
+      "大拇指朝外伸出，状如鱼鳍。",
+      "将双手保持在太阳神经丛附近。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "varada_mudra",
+    "name": "与愿手印",
+    "translation": "赐福与慷慨之印",
+    "category": "Mental Calm",
+    "benefits": "培养慈悲、宽恕，并与精神上的分享相连。",
+    "steps": [
+      "左手向下伸出，掌心朝前。",
+      "手指指向下方，朝向大地。",
+      "将右手放在大腿上或呈智慧手印。"
+    ],
+    "duration": "每天10分钟",
+    "icon": "left_palm_down"
+  },
+  {
+    "id": "rudra_mudra",
+    "name": "楼陀罗手印",
+    "translation": "宇宙主宰/太阳神经丛之印",
+    "category": "Energy & Vitality",
+    "benefits": "调节血液流量，缓解眩晕，并激活太阳神经丛轮。",
+    "steps": [
+      "将食指和无名指的指尖接触大拇指指尖。",
+      "保持中指和小指伸直。"
+    ],
+    "duration": "每天20分钟",
+    "icon": "thumb_index_ring"
+  },
+  {
+    "id": "kundalini_mudra",
+    "name": "昆达里尼手印",
+    "translation": "精神能量之印",
+    "category": "Energy & Vitality",
+    "benefits": "平衡性生命能量，统一对立性，并促进灵性觉醒。",
+    "steps": [
+      "双手握成松散的拳头。",
+      "将左手食指直立向上伸入右手拳头底部。",
+      "用右手的手指环绕左手食指。",
+      "将右手大拇指指尖接触左手食指指尖。"
+    ],
+    "duration": "每天3次，每次15分钟",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "pushan_mudra",
+    "name": "普善手印",
+    "translation": "消化与滋养之印",
+    "category": "Digestion & Detox",
+    "benefits": "帮助消化，促进食物吸收，并消除胃部胀气。",
+    "steps": [
+      "右手：将食指和中指的指尖接触大拇指指尖。",
+      "左手：将中指和无名指的指尖接触大拇指指尖。",
+      "保持其他手指伸直，双手放在大腿上。"
+    ],
+    "duration": "每天30分钟",
+    "icon": "pushan_hand_shapes"
+  },
+  {
+    "id": "shankhamukhi_mudra",
+    "name": "海螺口手印",
+    "translation": "贝壳之口之印",
+    "category": "Healing & Therapy",
+    "benefits": "治疗言语缺陷，喉咙沙哑，并刺激声带。",
+    "steps": [
+      "双手交扣，手指环绕对侧的大拇指。",
+      "食指接触对侧的大拇指。",
+      "如果是做呼吸练习，轻轻吹气穿过双手间的开口。"
+    ],
+    "duration": "每天15分钟",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "kurmasana_mudra",
+    "name": "龟坐手印",
+    "translation": "龟坐之印",
+    "category": "Mental Calm",
+    "benefits": "收摄感官向内，隔绝外界干扰，并有助于内省。",
+    "steps": [
+      "平坐在地板上，双手交叠放在大腿上。",
+      "将大拇指收进掌心，手指紧紧闭合。",
+      "手腕交叉，将双手放在膝盖上。"
+    ],
+    "duration": "每天10-15分钟",
+    "icon": "wrists_crossed_fists"
+  },
+  {
+    "id": "kilaka_mudra",
+    "name": "锁合手印",
+    "translation": "钥匙/插销之印",
+    "category": "Brain & Focus",
+    "benefits": "解锁心理障碍，治疗言语问题，并增强决心。",
+    "steps": [
+      "双手十指紧紧相扣。",
+      "手指关节用力压在一起。",
+      "在胸部高度保持此手印，深呼吸。"
+    ],
+    "duration": "每天10分钟",
+    "icon": "clasp_hands_tight"
+  },
+  {
+    "id": "bandha_mudra",
+    "name": "锁下手印",
+    "translation": "锁定之印",
+    "category": "Mental Calm",
+    "benefits": "锁定体内的能量，防止生命力流失，并实现身心接地。",
+    "steps": [
+      "端坐，双手平放在膝盖上。",
+      "完全吸气，然后将下巴紧紧抵住胸部（收颔收束法）。",
+      "保持手臂伸直并锁死肘部。"
+    ],
+    "duration": "每轮保持5-10秒",
+    "icon": "lock_pose"
+  }
+]

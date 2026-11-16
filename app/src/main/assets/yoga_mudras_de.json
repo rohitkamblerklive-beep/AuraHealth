@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "gyan_mudra",
+    "name": "Gyan-Mudra",
+    "translation": "Geste des Wissens",
+    "category": "Mental Calm",
+    "benefits": "Verbessert die Konzentration, schärft das Gedächtnis, baut Stress ab und lindert Schlaflosigkeit.",
+    "steps": [
+      "Sitzen Sie in einer bequemen Yoga-Haltung wie Padmasana (Lotussitz) oder Sukhasana (Schneidersitz).",
+      "Berühren Sie die Spitze des Zeigefingers mit der Spitze des Daumens.",
+      "Halten Sie die anderen drei Finger gerade, entspannt und parallel zueinander.",
+      "Legen Sie Ihre Hände auf die Knie, wobei die Handflächen nach oben zeigen."
+    ],
+    "duration": "30-45 Min. täglich (oder drei 15-minütige Sitzungen)",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chin_mudra",
+    "name": "Chin-Mudra",
+    "translation": "Geste des Bewusstseins",
+    "category": "Mental Calm",
+    "benefits": "Fördert den Fokus, verbindet das Bewusstsein, beruhigt den Geist und lindert Depressionen.",
+    "steps": [
+      "Sitzen Sie aufrecht und legen Sie Ihre Hände auf die Oberschenkel.",
+      "Berühren Sie die Spitze des Zeigefingers mit der Spitze des Daumens.",
+      "Halten Sie die anderen drei Finger gerade, aber richten Sie sie nach unten zur Erde.",
+      "Schließen Sie die Augen und konzentrieren Sie sich auf Ihren Atem."
+    ],
+    "duration": "15-30 Min. täglich",
+    "icon": "thumb_index_down"
+  },
+  {
+    "id": "dhyana_mudra",
+    "name": "Dhyana-Mudra",
+    "translation": "Geste der Meditation",
+    "category": "Mental Calm",
+    "benefits": "Bringt tiefe Konzentration, gleicht die rechte und linke Gehirnhälfte aus und schenkt inneren Frieden.",
+    "steps": [
+      "Sitzen Sie in Padmasana oder Sukhasana.",
+      "Legen Sie die rechte Hand auf die linke Hand, die Handflächen nach oben, in Ihren Schoß.",
+      "Berühren Sie die Spitzen der Daumen miteinander, sodass eine Dreiecksform entsteht.",
+      "Halten Sie die Hände entspannt und lassen Sie sie nahe am Bauch ruhen."
+    ],
+    "duration": "20-45 Min. während der Meditation",
+    "icon": "palms_stacked"
+  },
+  {
+    "id": "bhairava_mudra",
+    "name": "Bhairava-Mudra",
+    "translation": "Wilde Geste von Shiva",
+    "category": "Mental Calm",
+    "benefits": "Vereint den Geist, gleicht innere Energien aus und richtet den spirituellen Fokus aus.",
+    "steps": [
+      "Sitzen Sie bequem mit aufrechter Wirbelsäule.",
+      "Legen Sie die rechte Hand auf die linke Hand in Ihren Schoß, beide Handflächen nach oben.",
+      "Halten Sie die Daumen entspannt, ohne dass sie sich berühren.",
+      "Konzentrieren Sie Ihren Geist auf das Wurzelchakra."
+    ],
+    "duration": "15-30 Min. täglich",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "anjali_mudra",
+    "name": "Anjali-Mudra",
+    "translation": "Geste des Gebets & Namaste",
+    "category": "Mental Calm",
+    "benefits": "Fördert Respekt, verbindet die Gehirnhälften und baut Stress ab.",
+    "steps": [
+      "Bringen Sie Ihre Handflächen vor dem Herzzentrum zusammen.",
+      "Achten Sie darauf, dass die Finger gerade nach oben zeigen und die Daumen sanft auf dem Brustbein ruhen.",
+      "Drücken Sie die Außenkanten der Handflächen leicht zusammen.",
+      "Neigen Sie Ihren Kopf leicht, um die Geste zu besiegeln."
+    ],
+    "duration": "5-15 Min. täglich",
+    "icon": "palms_joined"
+  },
+  {
+    "id": "shambhavi_mudra",
+    "name": "Shambhavi-Mudra",
+    "translation": "Augenbrauen-Blick-Geste",
+    "category": "Mental Calm",
+    "benefits": "Aktiviert das Ajna-Chakra (drittes Auge), erhöht die geistige Kontrolle und reduziert Angstzustände.",
+    "steps": [
+      "Sitzen Sie in einer Meditationshaltung mit den Händen im Gyan-Mudra auf den Knien.",
+      "Schließen Sie Ihre Augen, öffnen Sie sie dann leicht und blicken Sie nach oben.",
+      "Konzentrieren Sie beide Augen auf die Stelle zwischen Ihren Augenbrauen (Bhrumadhya).",
+      "Überanstrengen Sie Ihre Augen nicht. Entspannen Sie sich, wenn Sie Druck spüren."
+    ],
+    "duration": "3-10 Min. täglich",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "kalesvara_mudra",
+    "name": "Kalesvara-Mudra",
+    "translation": "Geste des Herrn der Zeit",
+    "category": "Mental Calm",
+    "benefits": "Löst Suchtverhalten auf, schärft das Gedächtnis und beruhigt emotionale Ausbrüche.",
+    "steps": [
+      "Bringen Sie die Spitzen Ihrer Mittelfinger zusammen, sodass sie gerade nach oben zeigen.",
+      "Beugen Sie die anderen Finger (Zeige-, Ring-, kleiner Finger), sodass sich ihre zweiten Gelenke berühren.",
+      "Berühren Sie die Spitzen Ihrer Daumen, die nach unten zum Brustkorb zeigen.",
+      "Atmen Sie langsam und tief."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "complex_fingers_touching"
+  },
+  {
+    "id": "lotus_mudra",
+    "name": "Lotus-Mudra (Padma)",
+    "translation": "Geste der Lotusblüte",
+    "category": "Mental Calm",
+    "benefits": "Öffnet das Herzchakra, kultiviert Liebe und Mitgefühl und vertreibt Einsamkeit.",
+    "steps": [
+      "Bringen Sie die Handgelenke nahe Ihrem Herzen zusammen.",
+      "Berühren Sie die Spitzen der kleinen Finger und Daumen.",
+      "Spreizen Sie Zeige-, Mittel- und Ringfinger weit auseinander wie eine blühende Lotusblüte.",
+      "Atmen Sie tief ein und visualisieren Sie Reinheit."
+    ],
+    "duration": "15-30 Min. täglich",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "yoni_mudra",
+    "name": "Yoni-Mudra",
+    "translation": "Geste des Schosses / der Quelle",
+    "category": "Mental Calm",
+    "benefits": "Löst die Verbindung zur Außenwelt, gleicht das Nervensystem aus und kultiviert die weibliche Energie.",
+    "steps": [
+      "Falten Sie Ihre Finger ineinander, die Handflächen zeigen zu Ihnen.",
+      "Strecken Sie die Zeigefinger gerade nach unten und berühren Sie sich an den Spitzen.",
+      "Strecken Sie die Daumen gerade nach oben und berühren Sie sich an den Spitzen.",
+      "Verschränken Sie die anderen Finger im Inneren der Handflächen."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "womb_shape"
+  },
+  {
+    "id": "abhaya_mudra",
+    "name": "Abhaya-Mudra",
+    "translation": "Geste der Furchtlosigkeit",
+    "category": "Mental Calm",
+    "benefits": "Vertreibt Angst, schenkt emotionale Sicherheit und beschwört Frieden sowie göttlichen Schutz.",
+    "steps": [
+      "Heben Sie die rechte Hand auf Schulterhöhe mit gebeugtem Ellbogen.",
+      "Drehen Sie die Handfläche nach außen, nach vorne gerichtet, die Finger zeigen gerade nach oben.",
+      "Legen Sie die linke Hand flach auf den linken Schoß oder das Knie, die Handfläche nach oben.",
+      "Atmen Sie gleichmäßig und verkörpern Sie Vertrauen."
+    ],
+    "duration": "10-20 Min. täglich",
+    "icon": "right_palm_forward"
+  },
+  {
+    "id": "hakini_mudra",
+    "name": "Hakini-Mudra",
+    "translation": "Geste des Geistes",
+    "category": "Brain & Focus",
+    "benefits": "Verbessert das Gedächtnis, integriert die rechte/linke Gehirnhälfte und steigert die Gehirnleistung.",
+    "steps": [
+      "Bringen Sie Ihre Hände vor die Brust.",
+      "Berühren Sie die Fingerspitzen der rechten Hand mit den entsprechenden Fingerspitzen der linken Hand.",
+      "Halten Sie die Handflächen voneinander entfernt, sodass sich eine offene Hohlkugel zwischen Ihren Händen bildet.",
+      "Legen Sie beim Einatmen die Zunge an den Gaumen."
+    ],
+    "duration": "30 Min. täglich (oder drei 10-minütige Sitzungen)",
+    "icon": "fingertips_touching"
+  },
+  {
+    "id": "adho_mukha_mudra",
+    "name": "Adho-Mukha-Mudra",
+    "translation": "Nach unten blickende Geste",
+    "category": "Mental Calm",
+    "benefits": "Beruhigt einen überaktiven Geist, fördert eine tiefe Erdung und unterstützt einen erholsamen Schlaf.",
+    "steps": [
+      "Legen Sie die Handrücken vor Ihrer Brust zusammen.",
+      "Achten Sie darauf, dass sich die Rückseiten der Finger berühren und nach unten zeigen.",
+      "Lassen Sie die Daumen in der Mitte ruhen, wobei sie sich an den Seiten berühren.",
+      "Entspannen Sie Ihre Schultern und atmen Sie langsam."
+    ],
+    "duration": "15 Min. vor dem Schlafengehen",
+    "icon": "backs_touching"
+  },
+  {
+    "id": "vayu_mudra",
+    "name": "Vayu-Mudra",
+    "translation": "Geste der Luft",
+    "category": "Healing & Therapy",
+    "benefits": "Lindert Gelenkschmerzen, Arthritis, Blähungen und übermäßige Gase im Magen.",
+    "steps": [
+      "Beugen Sie den Zeigefinger so, dass er die Daumenwurzel berührt.",
+      "Drücken Sie den Zeigefinger sanft mit dem Daumen nach unten.",
+      "Halten Sie die anderen drei Finger gerade gestreckt und entspannt.",
+      "Legen Sie Ihre Hände auf die Knie, die Handflächen nach oben."
+    ],
+    "duration": "30-45 Min. täglich (oder bei akuten Gelenkschmerzen)",
+    "icon": "thumb_over_index"
+  },
+  {
+    "id": "shunya_mudra",
+    "name": "Shunya-Mudra",
+    "translation": "Geste des Himmels / der Leere",
+    "category": "Healing & Therapy",
+    "benefits": "Lindert Ohrenschmerzen, Tinnitus, Schilddrüsenprobleme und Halsschmerzen.",
+    "steps": [
+      "Beugen Sie den Mittelfinger bis zur Daumenwurzel.",
+      "Drücken Sie den Mittelfinger sanft mit dem Daumen nach unten.",
+      "Halten Sie die anderen drei Finger gerade.",
+      "Üben Sie dies mit beiden Händen gleichzeitig."
+    ],
+    "duration": "30-40 Min. täglich oder bis die Ohrenschmerzen nachlassen",
+    "icon": "thumb_over_middle"
+  },
+  {
+    "id": "varuna_mudra",
+    "name": "Varuna-Mudra",
+    "translation": "Geste des Wassers",
+    "category": "Healing & Therapy",
+    "benefits": "Spendet trockener Haut Feuchtigkeit, reinigt das Blut, beugt Falten vor und lindert Hautinfektionen.",
+    "steps": [
+      "Berühren Sie die Spitze des kleinen Finger mit der Spitze des Daumens.",
+      "Halten Sie die anderen drei Finger gerade und entspannt.",
+      "Drücken Sie den kleinen Finger nicht fest auf, halten Sie die Berührung leicht.",
+      "Sitzen Sie bequem und üben Sie mit beiden Händen."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "linga_mudra",
+    "name": "Linga-Mudra",
+    "translation": "Geste der Hitze & des Feuers",
+    "category": "Healing & Therapy",
+    "benefits": "Erzeugt innere Körperwärme, lindert Erkältungen, Husten, Asthma und verbrennt Fett.",
+    "steps": [
+      "Verschränken Sie alle Finger beider Hände und halten Sie die Handflächen zusammengepresst.",
+      "Halten Sie den linken Daumen gerade nach oben gerichtet.",
+      "Umschließen Sie den aufrechten linken Daumen mit dem Zeigefinger und Daumen der rechten Hand.",
+      "Halten Sie die Hände nahe an der Brust."
+    ],
+    "duration": "15-20 Min. täglich (bei Fieber oder Übersäuerung vermeiden)",
+    "icon": "interlocked_thumb_up"
+  },
+  {
+    "id": "shankh_mudra",
+    "name": "Shankh-Mudra",
+    "translation": "Muschel-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Verbessert die Klarheit der Stimme, lindert Schilddrüsenstörungen im Hals und regt die Verdauung an.",
+    "steps": [
+      "Umschließen Sie Ihren linken Daumen mit den vier Fingern der rechten Hand.",
+      "Berühren Sie mit dem rechten Daumen die Spitze des linken Mittelfingers.",
+      "Halten Sie die Hände nahe an der Brust, sodass sie wie eine Muschel aussehen.",
+      "Atmen Sie durch die Nase und konzentrieren Sie sich auf den Hals."
+    ],
+    "duration": "30-45 Min. täglich",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "apana_vayu_mudra",
+    "name": "Apana-Vayu-Mudra",
+    "translation": "Herzretter / Mrita Sanjeevani",
+    "category": "Heart & Circulation",
+    "benefits": "Stärkt die Herzmuskulatur, reguliert den Blutdruck und bietet sofortige Linderung bei Herzinfarkten.",
+    "steps": [
+      "Beugen Sie den Zeigefinger so, dass er die Daumenwurzel berührt.",
+      "Berühren Sie die Spitzen des Mittel- und Ringfingers mit die Spitze des Daumens.",
+      "Halten Sie den kleinen Finger gerade.",
+      "Üben Sie mit beiden Händen."
+    ],
+    "duration": "30-40 Min. täglich (wichtiges Notfall-Mudra)",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "mahasirs_mudra",
+    "name": "Mahasirs-Mudra",
+    "translation": "Große Kopfgeste",
+    "category": "Healing & Therapy",
+    "benefits": "Lindert Nebenhöhlenverstopfung, Spannungskopfschmerzen und Augenbelastung.",
+    "steps": [
+      "Berühren Sie die Spitzen von Daumen, Zeige- und Mittelfinger miteinander.",
+      "Legen Sie Ihren Ringfinger in die Falte an der Daumenwurzel.",
+      "Halten Sie den kleinen Finger gerade ausgestreckt.",
+      "Atmen Sie ruhig und entspannen Sie Ihre Stirn."
+    ],
+    "duration": "10-15 Min. bei Bedarf",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "mukula_mudra",
+    "name": "Mukula-Mudra",
+    "translation": "Knospen-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Leitet Heilenergie zu bestimmten geschwächten Organen wie Leber, Milz oder Nieren.",
+    "steps": [
+      "Bringen Sie alle vier Fingerspitzen in Kontakt mit die Spitze des Daumens.",
+      "Dies bildet eine Form wie eine geschlossene Blütenknospe.",
+      "Richten Sie diese Knospe auf den Körperteil oder das Organ, das Heilung benötigt.",
+      "Visualisieren Sie, wie heilendes grünes Licht in dieses Organ fließt."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "all_touching_thumb"
+  },
+  {
+    "id": "suchi_mudra",
+    "name": "Suchi-Mudra",
+    "translation": "Nadel-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Beseitigt chronische Verstopfung, löst mentale Blockaden und entgiftet den Darm.",
+    "steps": [
+      "Machen Sie mit beiden Händen eine Faust.",
+      "Strecken Sie die Zeigefinger gerade nach oben.",
+      "Strecken Sie die Hände von der Brust weg aus.",
+      "Halten Sie diese Geste, während Sie sich auf den Unterbauch konzentrieren."
+    ],
+    "duration": "10-15 Min. am Morgen",
+    "icon": "fist_index_up"
+  },
+  {
+    "id": "surabhi_mudra",
+    "name": "Surabhi-Mudra",
+    "translation": "Wunscherfüllende Kuhgeste",
+    "category": "Healing & Therapy",
+    "benefits": "Gleicht alle fünf Elemente im Körper aus, lindert Gelenkschmerzen und verbessert den Stoffwechsel.",
+    "steps": [
+      "Berühren Sie mit der linken kleinen Fingerspitze die rechte Ringfingerspitze.",
+      "Berühren Sie mit der rechten kleinen Fingerspitze die linke Ringfingerspitze.",
+      "Berühren Sie mit der linken Mittelfingerspitze die rechte Zeigefingerspitze.",
+      "Berühren Sie mit der rechten Mittelfingerspitze die linke Zeigefingerspitze. Halten Sie die Daumen gespreizt."
+    ],
+    "duration": "15-30 Min. täglich",
+    "icon": "complex_crossed"
+  },
+  {
+    "id": "bhudi_mudra",
+    "name": "Bhudi-Mudra",
+    "translation": "Geste des Flüssigkeitsgleichgewichts",
+    "category": "Healing & Therapy",
+    "benefits": "Reguliert den Flüssigkeitshaushalt, beugt trockenen Augen vor und unterstützt die Nieren- und Blasenfunktion.",
+    "steps": [
+      "Berühren Sie die Spitze des kleinen Fingers mit der Spitze des Daumens.",
+      "Halten Zeige-, Mittel- und Ringfinger gerade.",
+      "Sitzen Sie in einer entspannten Haltung und legen Sie die Hände auf Ihre Knie."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "thumb_pinky"
+  },
+  {
+    "id": "granthita_mudra",
+    "name": "Granthita-Mudra",
+    "translation": "Knoten-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Stimuliert die Schilddrüse, öffnet das Halschakra und verhilft zu stimmlicher Klarheit.",
+    "steps": [
+      "Verschränken Sie Ihre Finger im Inneren der Handflächen.",
+      "Berühren Sie die Spitzen Ihrer Zeigefinger und Daumen miteinander, um zwei Ringe zu bilden.",
+      "Halten das Mudra vor Ihren Hals.",
+      "Chanten Sie 'HAM' oder atmen Sie tief ein."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "double_rings"
+  },
+  {
+    "id": "prana_mudra",
+    "name": "Prana-Mudra",
+    "translation": "Geste der Lebenskraft",
+    "category": "Energy & Vitality",
+    "benefits": "Stärkt das Immunsystem, spendet sofortige Energie, verbessert die Sehkraft und reduziert Müdigkeit.",
+    "steps": [
+      "Berühren Sie die Spitzen des Ring- und kleinen Fingers mit der Spitze des Daumens.",
+      "Halten Sie Zeige- und Mittelfinger gerade gestreckt.",
+      "Üben Sie mit beiden Händen im Sitzen oder Gehen."
+    ],
+    "duration": "30-45 Min. täglich (kann aufgeteilt werden)",
+    "icon": "thumb_ring_pinky"
+  },
+  {
+    "id": "surya_mudra",
+    "name": "Surya-Mudra",
+    "translation": "Geste der Sonne / des Feuers",
+    "category": "Energy & Vitality",
+    "benefits": "Fördert die Schilddrüsenaktivität, unterstützt die Gewichtsabnahme, senkt den Cholesterinspiegel und wärmt den Körper.",
+    "steps": [
+      "Beugen Sie den Ringfinger so, dass er die Daumenwurzel berührt.",
+      "Drücken Sie den Ringfinger sanft mit dem Daumen nach unten.",
+      "Halten Sie die anderen Finger gerade.",
+      "Führen Sie dies auf nüchternen Magen durch."
+    ],
+    "duration": "15-30 Min. täglich (bei starker Hitze vermeiden)",
+    "icon": "thumb_over_ring"
+  },
+  {
+    "id": "adi_mudra",
+    "name": "Adi-Mudra",
+    "translation": "Erste / Ureigene Geste",
+    "category": "Brain & Focus",
+    "benefits": "Erhöht den Sauerstofffluss zum Gehirn, erweitert die Lungenkapazität und beruhigt das Nervensystem.",
+    "steps": [
+      "Legen Sie Ihren Daumen in die Mitte Ihrer Handfläche.",
+      "Schließen Sie die anderen vier Finger über dem Daumen zu einer sanften Faust.",
+      "Legen Sie die Fäuste mit der Oberseite nach oben auf Ihre Oberschenkel.",
+      "Konzentrieren Sie sich auf die Brust- und Halsatmung."
+    ],
+    "duration": "20 Min. täglich",
+    "icon": "thumb_inside_fist"
+  },
+  {
+    "id": "uttarabodhi_mudra",
+    "name": "Uttarabodhi-Mudra",
+    "translation": "Geste der höchsten Erleuchtung",
+    "category": "Energy & Vitality",
+    "benefits": "Vertreibt Angst, stärkt das Selbstvertrauen, lädt die Energie wieder auf und stimuliert die Lunge.",
+    "steps": [
+      "Verschränken Sie alle Finger außer den Zeigefingern und Daumen.",
+      "Strecken Sie die Zeigefinger gerade nach oben und berühren Sie sich an den Spitzen.",
+      "Strecken Sie die Daumen gerade nach unten und berühren Sie sich an den Spitzen.",
+      "Halten Sie die Hände nahe an Ihrem Herzen."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "pointy_hands"
+  },
+  {
+    "id": "ksepana_mudra",
+    "name": "Ksepana-Mudra",
+    "translation": "Geste des Loslassens",
+    "category": "Energy & Vitality",
+    "benefits": "Leitet negative Energie ab, scheidet Giftstoffe über Schweiß/Atem aus und baut Spannungen ab.",
+    "steps": [
+      "Falten Sie die Hände zusammen, Zeigefinger gerade gestreckt und an den Spitzen berührend.",
+      "Kreuzen Sie Ihre Daumen übereinander.",
+      "Richten Sie die Zeigefinger nach unten zum Boden, um Energie freizusetzen.",
+      "Einige Minuten lang halten, dann die Handflächen nach oben gerichtet ablegen."
+    ],
+    "duration": "5-10 Min. täglich",
+    "icon": "pointy_down"
+  },
+  {
+    "id": "prithvi_mudra",
+    "name": "Prithvi-Mudra",
+    "translation": "Geste der Erde",
+    "category": "Energy & Vitality",
+    "benefits": "Überwindet Müdigkeit, fördert die Gewichtszunahme bei untergewichtigen Personen und stärkt das Körpergewebe.",
+    "steps": [
+      "Berühren Sie die Spitze des Ringfingers mit die Spitze des Daumens.",
+      "Halten Sie die anderen drei Finger gerade und entspannt.",
+      "Führen Sie dies im Sitzen in Padmasana aus."
+    ],
+    "duration": "30-45 Min. täglich",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "garuda_mudra",
+    "name": "Garuda-Mudra",
+    "translation": "Adler-Geste",
+    "category": "Energy & Vitality",
+    "benefits": "Gleicht Energien aus, lindert Menstruationsbeschwerden und verbessert die Durchblutung.",
+    "steps": [
+      "Legen Sie die rechte Hand auf die linke Hand, die Handflächen zeigen zur Brust.",
+      "Verschränken Sie die Daumen ineinander, sodass die Finger die Form von Adlerflügeln bilden.",
+      "Spreizen Sie Ihre Finger weit, um Flügel zu simulieren.",
+      "Vor dem Unterbauch halten, dann zum Brustkorb bewegen."
+    ],
+    "duration": "4 Min., dreimal täglich",
+    "icon": "thumbs_locked_wings"
+  },
+  {
+    "id": "vajra_mudra",
+    "name": "Vajra-Mudra",
+    "translation": "Donnerkeil-Geste",
+    "category": "Energy & Vitality",
+    "benefits": "Lindert niedrigen Blutdruck, vertreibt Schwindelgefühl und regt die Durchblutung an.",
+    "steps": [
+      "Zeigen Sie mit dem linken Zeigefinger gerade nach oben.",
+      "Umschließen Sie den linken Zeigefinger mit den Fingern der rechten Hand.",
+      "Berühren Sie die Spitze des rechten Daumens mit der Spitze des linken Zeigefingers.",
+      "Halten Sie dies nahe an Ihrem Solarplexus."
+    ],
+    "duration": "15 Min., zweimal täglich",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "makara_mudra",
+    "name": "Makara-Mudra",
+    "translation": "Krokodil-Geste",
+    "category": "Energy & Vitality",
+    "benefits": "Aktiviert die Nierenenergie, hilft bei der Bekämpfung von Müdigkeit und mindert Augenringe.",
+    "steps": [
+      "Legen Sie Ihre rechte Hand in Ihre linke Hand.",
+      "Schieben Sie Ihren rechten Daumen zwischen den kleinen Finger und den Ringfinger der linken Hand.",
+      "Berühren Sie die Spitze des rechten Daumens mit der Spitze des linken Ringfingers.",
+      "Strecken Sie Ihren linken Daumen nach oben."
+    ],
+    "duration": "10-15 Min. täglich",
+    "icon": "complex_crocodile"
+  },
+  {
+    "id": "kurma_mudra",
+    "name": "Kurma-Mudra",
+    "translation": "Schildkröten-Geste",
+    "category": "Energy & Vitality",
+    "benefits": "Erdet den aktiven Geist, bewahrt Lebensenergie und hilft, Gedanken zu beruhigen.",
+    "steps": [
+      "Strecken Sie die Finger aus, kreuzen Sie die rechte Hand über die linke Hand.",
+      "Berühren Sie die Spitzen der Daumen miteinander.",
+      "Krümmen Sie die anderen Finger nach innen, um einen Schildkrötenpanzer darzustellen.",
+      "Vor dem Bauch halten."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "tortoise_shape"
+  },
+  {
+    "id": "trishula_mudra",
+    "name": "Trishula-Mudra",
+    "translation": "Dreizack-Geste",
+    "category": "Energy & Vitality",
+    "benefits": "Stärkt die innere Kraft, erweckt die Kundalini-Energie und fördert den Fokus auf Selbstverteidigung.",
+    "steps": [
+      "Beugen Sie den kleinen Finger so, dass er die Daumenwurzel berührt.",
+      "Halten Sie Zeige-, Mittel- und Ringfinger gerade nach oben gerichtet wie einen Dreizack.",
+      "Halten Sie die Hände nach außen nahe an den Schultern.",
+      "Atmen Sie kraftvoll aus."
+    ],
+    "duration": "10 Min. täglich",
+    "icon": "trident_fingers"
+  },
+  {
+    "id": "shivalinga_mudra",
+    "name": "Shivalinga-Mudra",
+    "translation": "Geste der Energie von Lord Shiva",
+    "category": "Energy & Vitality",
+    "benefits": "Beseitigt Trägheit, füllt den Körper mit dynamischer Wärme und regt das Verdauungsfeuer an.",
+    "steps": [
+      "Machen eine Faust mit der rechten Hand, der Daumen zeigt gerade nach oben.",
+      "Legen Sie die rechte Faust auf Ihre flache linke Handfläche.",
+      "Halten Sie die Hände nahe an der Brust oder dem Oberbauch.",
+      "Üben Sie mit tiefer Atmung."
+    ],
+    "duration": "10-15 Min. täglich (bei heißem Wetter vermeiden)",
+    "icon": "thumb_fist_on_palm"
+  },
+  {
+    "id": "apana_mudra",
+    "name": "Apana-Mudra",
+    "translation": "Geste des abwärts gerichteten Flusses",
+    "category": "Digestion & Detox",
+    "benefits": "Lindert Verstopfung, scheidet Körpergifte aus, reinigt die Haut und hilft bei regelmäßigem Stuhlgang.",
+    "steps": [
+      "Berühren Sie die Spitzen Ihres Mittel- und Ringfingers mit der Spitze des Daumens.",
+      "Halten Zeige- und kleinen Finger gerade.",
+      "Legen Sie die Hände mit den Handflächen nach oben auf die Knie.",
+      "Konzentrieren Sie sich auf den Unterbauch."
+    ],
+    "duration": "30-45 Min. täglich",
+    "icon": "thumb_middle_ring"
+  },
+  {
+    "id": "samana_mudra",
+    "name": "Samana-Mudra",
+    "translation": "Geste des ausgleichenden Flusses / Mukul",
+    "category": "Digestion & Detox",
+    "benefits": "Verbessert die allgemeine Verdauung, gleicht die fünf Elemente aus und reguliert den Stoffwechsel.",
+    "steps": [
+      "Bringen Sie die Spitzen aller fünf Finger zusammen (Daumen, Zeige-, Mittel-, Ring-, kleiner Finger).",
+      "Sie sollten sich an einem Punkt berühren wie eine geschlossene Blütenknospe.",
+      "Sitzen Sie entspannt und üben Sie mit beiden Händen gleichzeitig.",
+      "Konzentrieren Sie sich auf das Nabelchakra."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "all_fingers_touching"
+  },
+  {
+    "id": "pushpaputa_mudra",
+    "name": "Pushpaputa-Mudra",
+    "translation": "Geste einer Handvoll Blumen",
+    "category": "Digestion & Detox",
+    "benefits": "Fördert Akzeptanz, Offenheit und öffnet den Lungen- und Brustbereich.",
+    "steps": [
+      "Legen Sie Ihre Hände auf die Oberschenkel, die Handflächen nach oben gerichtet.",
+      "Bringen Sie die Hände so zusammen, dass sich die kleinen Finger an den Seiten berühren.",
+      "Halten Sie die Finger leicht gekrümmt, als ob Sie Blumen in Ihren Handflächen halten würden.",
+      "Atmen Sie tief ein."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "cupped_palms"
+  },
+  {
+    "id": "mushti_mudra",
+    "name": "Mushti-Mudra",
+    "translation": "Faust-Geste",
+    "category": "Digestion & Detox",
+    "benefits": "Baut aufgestaute Wut und Reizbarkeit ab, lindert Verstopfung und unterstützt die Leberverdauung.",
+    "steps": [
+      "Beugen Sie alle Finger zu einer Faust.",
+      "Legen Sie Ihren Daumen über den Ringfinger.",
+      "Halten diese Geste mit einem festen, aber angenehmen Druck.",
+      "Sitzen Sie ruhig und beobachten Sie Ihre Atmung."
+    ],
+    "duration": "15-30 Min. täglich",
+    "icon": "thumb_over_ring_fist"
+  },
+  {
+    "id": "matangi_mudra",
+    "name": "Matangi-Mudra",
+    "translation": "Geste des Friedens & der Harmonie",
+    "category": "Digestion & Detox",
+    "benefits": "Beruhigt ein aufgeregtes Herz und lindert Spannungen in Magen, Leber und Verdauungstrakt.",
+    "steps": [
+      "Verschränken Sie Ihre Finger auf Höhe des Solarplexus.",
+      "Strecken Sie Ihre Mittelfinger gerade aus, sodass sie sich an den Spitzen berühren.",
+      "Halten alle anderen Finger nach innen gebeugt.",
+      "Atmen Sie in den Bauch."
+    ],
+    "duration": "20 Min. täglich",
+    "icon": "middle_extended"
+  },
+  {
+    "id": "kartari_mukha_mudra",
+    "name": "Kartari-Mukha-Mudra",
+    "translation": "Scherengesicht-Geste",
+    "category": "Digestion & Detox",
+    "benefits": "Dehnt die Handsehnen, hilft bei der Entspannung der Augenmuskulatur und baut Nackenverspannungen ab.",
+    "steps": [
+      "Berühren Sie die Spitzen von Ringfinger und kleinem Finger mit der Spitze des Daumens.",
+      "Strecken Sie Zeige- und Mittelfinger wie eine Schere gerade nach oben.",
+      "Spreizen Zeige- und Mittelfinger weit auseinander.",
+      "Halten Sie die Hände nahe an den Ohren oder Schultern."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "mayura_mudra",
+    "name": "Mayura-Mudra",
+    "translation": "Pfauen-Geste",
+    "category": "Digestion & Detox",
+    "benefits": "Stärkt die Handgelenke, verbessert die Ausstrahlung der Haut und aktiviert die Energie des Solarplexus.",
+    "steps": [
+      "Berühren Sie die Spitze des Ringfingers mit der Spitze des Daumens.",
+      "Strecken Sie Zeige-, Mittel- und kleinen Finger gerade nach oben und spreizen Sie sie.",
+      "Halten Sie die Hände nach außen gerichtet wie ein Pfauenschwanz.",
+      "Üben Sie mit geschlossenen Augen."
+    ],
+    "duration": "10-20 Min. täglich",
+    "icon": "thumb_ring"
+  },
+  {
+    "id": "simha_mudra",
+    "name": "Simha-Mudra",
+    "translation": "Löwen-Geste",
+    "category": "Digestion & Detox",
+    "benefits": "Lindert Halsinfektionen, Schilddrüsenprobleme, mindert Stottern und stärkt die Gesichtsmuskulatur.",
+    "steps": [
+      "Sitzen Sie auf Ihren Fersen (Vajrasana), Knie gespreizt.",
+      "Legen Sie Ihre Handflächen auf Ihre Oberschenkel, die Finger weit gespreizt.",
+      "Lehnen Sie sich nach vorne, öffnen Sie den Mund und strecken Sie die Zunge weit in Richtung Kinn heraus.",
+      "Atmen Sie kraftvoll mit einem 'HA'-Laut aus und blicken Sie auf Ihr drittes Auge."
+    ],
+    "duration": "3-6 Wiederholungen täglich",
+    "icon": "lion_pose"
+  },
+  {
+    "id": "jnana_mudra",
+    "name": "Jnana-Mudra",
+    "translation": "Geste der Weisheit",
+    "category": "Brain & Focus",
+    "benefits": "Verbessert die Gehirnleistung, stärkt die Gesundheit des Nervensystems und beseitigt Verwirrung.",
+    "steps": [
+      "Berühren Sie die Spitze des Zeigefingers mit der Spitze des Daumens.",
+      "Halten die anderen Finger gerade.",
+      "Legen Sie die Hände auf Ihre Knie, wobei die Handflächen nach UNTEN zeigen.",
+      "Atmen Sie tief in die Brust ein."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "thumb_index"
+  },
+  {
+    "id": "chinmaya_mudra",
+    "name": "Chinmaya-Mudra",
+    "translation": "Geste des manifestierten Bewusstseins",
+    "category": "Brain & Focus",
+    "benefits": "Verbessert die Atmung in den mittleren Lungenlappen, beruhigt Ängste und klärt das Denken.",
+    "steps": [
+      "Berühren Sie die Spitze des Zeigefingers mit der Spitze des Daumens.",
+      "Rollen Sie Mittel-, Ring- und kleinen Finger in Ihre Handflächen.",
+      "Legen Sie die Hände mit den Handflächen nach oben auf die Knie.",
+      "Atmen Sie tief."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "thumb_index_curled"
+  },
+  {
+    "id": "vyana_mudra",
+    "name": "Vyana-Mudra",
+    "translation": "Geste des expansiven Flusses",
+    "category": "Heart & Circulation",
+    "benefits": "Reguliert den Blutdruck (hoch oder niedrig), lindert Müdigkeit und verbessert die Durchblutung.",
+    "steps": [
+      "Berühren Sie die Spitzen von Zeige- und Mittelfinger mit der Spitze des Daumens.",
+      "Halten Sie Ringfinger und kleinen Finger gerade.",
+      "Legen Sie die Hände mit den Handflächen nach oben auf die Knie."
+    ],
+    "duration": "20-30 Min. täglich",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "udana_mudra",
+    "name": "Udana-Mudra",
+    "translation": "Geste des aufwärts gerichteten Flusses",
+    "category": "Brain & Focus",
+    "benefits": "Kurbelt den Stoffwechsel an, hilft bei Schilddrüsenproblemen, verbessert die Sprech-/Singstimme und stimuliert das Gehirn.",
+    "steps": [
+      "Berühren Sie die Spitzen von Zeige-, Mittel- und Ringfinger mit der Spitze des Daumens.",
+      "Halten Sie den kleinen Finger gerade.",
+      "Legen Sie die Hände auf die Knie."
+    ],
+    "duration": "25 Min. täglich",
+    "icon": "thumb_three_fingers"
+  },
+  {
+    "id": "akash_mudra",
+    "name": "Akash-Mudra",
+    "translation": "Geste des Raumes",
+    "category": "Brain & Focus",
+    "benefits": "Stärkt die Knochen, lindert Ohrenprobleme, vertreibt negative Gedanken und öffnet das Raumchakra.",
+    "steps": [
+      "Berühren Sie die Spitze des Mittelfingers mit der Spitze des Daumens.",
+      "Halten Sie Zeige-, Ring- und kleinen Finger gerade.",
+      "Üben Sie mit beiden Händen nach oben gerichtet."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "thumb_middle"
+  },
+  {
+    "id": "kartari_mudra",
+    "name": "Kartari-Mudra",
+    "translation": "Scheren-Geste",
+    "category": "Brain & Focus",
+    "benefits": "Fördert den Fokus, koordiniert die Hand-Augen-Bewegung und stimuliert Nervenbahnen.",
+    "steps": [
+      "Berühren Sie mit dem Daumen die Spitzen von Ring- und kleinem Finger.",
+      "Strecken Sie Zeige- und Mittelfinger nach oben.",
+      "Spreizen Sie die gestreckten Finger."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "scissors_fingers"
+  },
+  {
+    "id": "shankhini_mudra",
+    "name": "Shankhini-Mudra",
+    "translation": "Muschelfluss-Geste",
+    "category": "Brain & Focus",
+    "benefits": "Gleicht das Halschakra aus, verbessert die Klarheit der Sprache und fördert die Stimmkraft.",
+    "steps": [
+      "Umschließen Sie den linken Daumen mit den rechten Fingern.",
+      "Berühren den linken Zeigefinger mit dem rechten Daumen.",
+      "Atmen Sie durch die Kehle und summen Sie leise."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "hridaya_mudra",
+    "name": "Hridaya-Mudra",
+    "translation": "Herz-Geste",
+    "category": "Heart & Circulation",
+    "benefits": "Löst aufgestaute Emotionen, beseitigt Herzblockaden und reguliert den Blutdruck.",
+    "steps": [
+      "Legen Sie die Zeigefingerspitze an die Wurzel des Daumens.",
+      "Berühren Sie die Spitzen von Mittel- und Ringfinger mit der Spitze des Daumens.",
+      "Halten Sie den kleinen Finger gerade."
+    ],
+    "duration": "20-30 Min. täglich",
+    "icon": "heart_saver"
+  },
+  {
+    "id": "merudanda_mudra",
+    "name": "Merudanda-Mudra",
+    "translation": "Rückenmarksgeste",
+    "category": "Healing & Therapy",
+    "benefits": "Lindert Rückenschmerzen, richtet die Haltung der Wirbelsäule auf und erhöht die Lungenkapazität.",
+    "steps": [
+      "Beugen Sie alle Finger in die Handflächen, die Daumen zeigen nach oben.",
+      "Strecken Sie die Daumen gerade nach oben.",
+      "Legen Sie die Hände auf die Knie, wobei die Daumen zueinander zeigen."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "thumbs_up"
+  },
+  {
+    "id": "pankaj_mudra",
+    "name": "Pankaj-Mudra",
+    "translation": "Lotusblätter-Offenheit",
+    "category": "Mental Calm",
+    "benefits": "Vertreibt Gefühle der Hoffnungslosigkeit, öffnet das Herz für Liebe und Freude.",
+    "steps": [
+      "Berühren Sie die Handgelenke an der Basis.",
+      "Spreizen die Mittelfinger, lassen die kleinen Finger und Daumen sich berühren.",
+      "Öffnen Sie die Finger weit wie eine Blume."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "lotus_shape"
+  },
+  {
+    "id": "brahmara_mudra",
+    "name": "Brahmara-Mudra",
+    "translation": "Bienen-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Stärkt das Immunsystem, lindert Allergien, Fließschnupfen und Niesen.",
+    "steps": [
+      "Legen Sie den Zeigefinger in die Falte des Daumens.",
+      "Berühren Sie die Spitze des Daumens mit die Spitze des Mittelfingers.",
+      "Halten Sie Ringfinger und kleinen Finger gerade."
+    ],
+    "duration": "15 Min., dreimal täglich",
+    "icon": "bee_shape"
+  },
+  {
+    "id": "shankha_vayu_mudra",
+    "name": "Shankha-Vayu-Mudra",
+    "translation": "Muschelluft-Geste",
+    "category": "Digestion & Detox",
+    "benefits": "Stimuliert den Darm, gleicht das Halschakra aus und hilft bei der Verdauung schwerer Speisen.",
+    "steps": [
+      "Umschließen Sie den linken Daumen mit den rechten Fingern.",
+      "Berühren Sie mit dem rechten Daumen die Spitzen von linkem Zeige- und Mittelfinger.",
+      "Vor dem Bauch halten."
+    ],
+    "duration": "20 Min. täglich",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "khechari_hridaya_mudra",
+    "name": "Khechari-Hridaya-Mudra",
+    "translation": "Herzmeditationsgeste",
+    "category": "Mental Calm",
+    "benefits": "Versetzt in einen tiefen Trancezustand, verlangsamt den Puls und bringt innere Stille.",
+    "steps": [
+      "Legen Sie die rechte Hand über die linke Hand auf das Herzzentrum.",
+      "Berühren Sie mit den Daumen die Zeigefinger.",
+      "Rollen Sie Ihre Zunge hoch, um den weichen Gaumen zu berühren."
+    ],
+    "duration": "10 Min. während der Meditation",
+    "icon": "palms_stacked_heart"
+  },
+  {
+    "id": "agochari_mudra",
+    "name": "Agochari-Mudra",
+    "translation": "Nasenspitzenblick-Geste",
+    "category": "Brain & Focus",
+    "benefits": "Entwickelt tiefe Konzentration, aktiviert das Muladhara-Chakra (Wurzelchakra) und stabilisiert den Geist.",
+    "steps": [
+      "Sitzen Sie in Meditationshaltung.",
+      "Konzentrieren Sie Ihre Augen auf die Nasenspitze.",
+      "Atmen Sie langsam und halten Sie den Fokus."
+    ],
+    "duration": "5 Min. täglich",
+    "icon": "gaze_meditation"
+  },
+  {
+    "id": "bhuchari_mudra",
+    "name": "Bhuchari-Mudra",
+    "translation": "Blick in die Leere",
+    "category": "Mental Calm",
+    "benefits": "Führt in einen Zustand der Gedankenstille, beruhigt die Gehirnaktivität und entspannt das Nervensystem.",
+    "steps": [
+      "Halten Sie Ihre rechte Hand vor Ihr Gesicht und blicken Sie auf Ihren kleinen Finger.",
+      "Senken Sie die Hand langsam, aber halten Sie die Augen auf denselben leeren Raum gerichtet.",
+      "Beobachten Sie den leeren Raum vor Ihnen."
+    ],
+    "duration": "5-10 Min. täglich",
+    "icon": "gaze_void"
+  },
+  {
+    "id": "tse_mudra",
+    "name": "Tse-Mudra",
+    "translation": "Geste der drei Geheimnisse",
+    "category": "Mental Calm",
+    "benefits": "Vertreibt Traurigkeit, schützt vor Missgeschicken und mindert Depressionen.",
+    "steps": [
+      "Legen Sie die Daumenspitze an die Wurzel des kleinen Fingers.",
+      "Schließen Sie die anderen vier Finger über dem Daumen zu einer Faust.",
+      "Legen Sie die Hände auf die Oberschenkel und atmen Sie tief."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "thumb_inside_pinky_fist"
+  },
+  {
+    "id": "kubera_mudra",
+    "name": "Kubera-Mudra",
+    "translation": "Geste des Wohlstands & des Fokus",
+    "category": "Brain & Focus",
+    "benefits": "Schenkt Selbstvertrauen, befreit die Nebenhöhlen und hilft, sich auf persönliche Ziele zu konzentrieren.",
+    "steps": [
+      "Berühren Sie die Spitzen von Daumen, Zeige- und Mittelfinger miteinander.",
+      "Beugen Ringfinger und kleinen Finger in die Handfläche.",
+      "Formulieren Sie während des Haltens Ihren Wunsch oder Ihr Ziel im Geist."
+    ],
+    "duration": "15-20 Min. täglich",
+    "icon": "thumb_index_middle"
+  },
+  {
+    "id": "matsya_mudra",
+    "name": "Matsya-Mudra",
+    "translation": "Fisch-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Dehnt die Handgelenke, lindert Arthroseschmerzen und beruhigt die Atmung.",
+    "steps": [
+      "Legen Sie die rechte Hand flach auf die linke Hand, mit der Oberseite nach oben.",
+      "Strecken Sie die Daumen wie Fischflossen nach außen.",
+      "Halten Sie die Hände nahe an Ihrem Solarplexus."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "palms_stacked_flat"
+  },
+  {
+    "id": "varada_mudra",
+    "name": "Varada-Mudra",
+    "translation": "Geste des Segens & der Mildtätigkeit",
+    "category": "Mental Calm",
+    "benefits": "Entwickelt Mitgefühl, Vergebung und verbindet mit spirituellem Geben.",
+    "steps": [
+      "Strecken Sie Ihre linke Hand nach unten, die Handfläche nach vorne gerichtet.",
+      "Zeigen Sie mit den Fingern nach unten zur Erde.",
+      "Legen Sie die rechte Hand auf den Oberschenkel oder im Gyan-Mudra ab."
+    ],
+    "duration": "10 Min. täglich",
+    "icon": "left_palm_down"
+  },
+  {
+    "id": "rudra_mudra",
+    "name": "Rudra-Mudra",
+    "translation": "Geste des kosmischen Herrschers / Solarplexus",
+    "category": "Energy & Vitality",
+    "benefits": "Reguliert den Blutfluss, lindert Schwindel und aktiviert das Solarplexus-Chakra.",
+    "steps": [
+      "Berühren Sie die Spitzen von Zeige- und Ringfinger mit der Spitze des Daumens.",
+      "Halten Sie Mittel- und kleinen Finger gerade."
+    ],
+    "duration": "20 Min. täglich",
+    "icon": "thumb_index_ring"
+  },
+  {
+    "id": "kundalini_mudra",
+    "name": "Kundalini-Mudra",
+    "translation": "Geste der spirituellen Energie",
+    "category": "Energy & Vitality",
+    "benefits": "Gleicht sexuelle Energie aus, vereint Dualitäten und fördert das spirituelle Erwachen.",
+    "steps": [
+      "Bilden Sie mit beiden Händen eine lose Faust.",
+      "Strecken Sie Ihren linken Zeigefinger von unten gerade in die rechte Faust hinein.",
+      "Umschließen Sie den linken Zeigefinger mit den rechten Fingern.",
+      "Berühren Sie die Spitze des rechten Daumens mit die Spitze des linken Zeigefingers."
+    ],
+    "duration": "15 Min., dreimal täglich",
+    "icon": "clasp_index_up"
+  },
+  {
+    "id": "pushan_mudra",
+    "name": "Pushan-Mudra",
+    "translation": "Geste der Verdauung & Ernährung",
+    "category": "Digestion & Detox",
+    "benefits": "Unterstützt die Verdauung, erhöht die Nahrungsaufnahme und lindert Magenblähungen.",
+    "steps": [
+      "Rechte Hand: Berühren Sie die Spitzen von Zeige- und Mittelfinger mit der Spitze des Daumens.",
+      "Linke Hand: Berühren Sie die Spitzen von Mittel- und Ringfinger mit der Spitze des Daumens.",
+      "Halten Sie die anderen Finger gerade und legen Sie die Hände auf die Oberschenkel."
+    ],
+    "duration": "30 Min. täglich",
+    "icon": "pushan_hand_shapes"
+  },
+  {
+    "id": "shankhamukhi_mudra",
+    "name": "Shankhamukhi-Mudra",
+    "translation": "Muschelmund-Geste",
+    "category": "Healing & Therapy",
+    "benefits": "Lindert Sprachfehler, Heiserkeit im Hals und stimuliert die Stimmbänder.",
+    "steps": [
+      "Falten Sie die Hände so, dass sich die Finger um die gegenüberliegenden Daumen legen.",
+      "Berühren Sie die Zeigefinger mit den gegenüberliegenden Daumen.",
+      "Blasen Sie bei Atemschutzübungen sanft durch die Öffnung zwischen den Händen."
+    ],
+    "duration": "15 Min. täglich",
+    "icon": "conch_clasp"
+  },
+  {
+    "id": "kurmasana_mudra",
+    "name": "Kurmasana-Mudra",
+    "translation": "Schildkrötensitz-Geste",
+    "category": "Mental Calm",
+    "benefits": "Zieht die Sinneswahrnehmungen nach innen, blendet Ablenkungen aus und fördert die Introversion.",
+    "steps": [
+      "Sitzen Sie flach auf dem Boden, falten Sie die Hände in Ihrem Schoß.",
+      "Bringen Sie die Daumen in die Handflächen und schließen Sie die Finger fest.",
+      "Kreuzen Sie die Handgelenke und legen Sie die Hände auf die Knie."
+    ],
+    "duration": "10-15 Min. täglich",
+    "icon": "wrists_crossed_fists"
+  },
+  {
+    "id": "kilaka_mudra",
+    "name": "Kilaka-Mudra",
+    "translation": "Schlüssel- / Bolzen-Geste",
+    "category": "Brain & Focus",
+    "benefits": "Löst mentale Blockaden, lindert Sprachprobleme und stärkt die Entschlossenheit.",
+    "steps": [
+      "Verschränken Sie alle Finger fest ineinander.",
+      "Drücken Sie die Knöchel fest zusammen.",
+      "Halten Sie die Geste auf Brusthöhe und atmen Sie tief ein."
+    ],
+    "duration": "10 Min. täglich",
+    "icon": "clasp_hands_tight"
+  },
+  {
+    "id": "bandha_mudra",
+    "name": "Bandha-Mudra",
+    "translation": "Verschluss-Geste",
+    "category": "Mental Calm",
+    "benefits": "Schließt Energie im Körper ein, verhindert das Entweichen der Lebenskraft und wirkt erdend.",
+    "steps": [
+      "Sitzen Sie aufrecht, legen Sie die Hände flach auf Ihre Knie.",
+      "Atmen Sie vollständig ein und drücken Sie dann das Kinn fest auf die Brust (Jalandhara Bandha).",
+      "Halten Sie die Arme gerade und an den Ellbogen durchgedrückt."
+    ],
+    "duration": "Halten für 5-10 Sekunden pro Runde",
+    "icon": "lock_pose"
+  }
+]

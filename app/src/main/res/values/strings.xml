@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuraHealth: Fitness &amp; Tracker</string>
+    <!-- Web Client ID from Firebase Console -->
+    <string name="default_web_client_id">138948270920-97fpnd0e0n0hgp6he91ncvufn7lt9uij.apps.googleusercontent.com</string>
+</resources>
