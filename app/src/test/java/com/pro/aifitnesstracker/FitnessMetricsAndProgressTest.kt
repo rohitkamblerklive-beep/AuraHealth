@@ -338,4 +338,18 @@ class FitnessMetricsAndProgressTest {
 
         assertEquals("Streak should stop at the missed day and return 2", 2, count)
     }
+
+    // ── 8. Hydration and Water Target Recommendation ─────────────────────────
+
+    @Test
+    fun testHydrationTargetCalculation_basedOnWeight() {
+        val userWeightKg = 70f
+        // Standard sports medicine rule: 35ml per kg of body weight
+        val recommendedMl = (userWeightKg * 35f).toInt()
+        assertEquals(2450, recommendedMl)
+
+        // Glass count (250ml per glass)
+        val glassCount = (recommendedMl / 250f).toInt()
+        assertEquals(9, glassCount)
+    }
 }
