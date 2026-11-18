@@ -1,65 +1,213 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+    Smart Notification — EXPANDED VIEW
+    Shows: Header | Message | 3 Smart Progress Bars (Steps/Water/Sleep) | Actions
+    Clean, minimal, native Android dark notification shade style.
+-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@drawable/bg_notification_card"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:paddingLeft="14dp"
+    android:paddingRight="14dp"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp">
 
-    <!-- Header Row -->
+    <!-- ── HEADER ROW ─────────────────────────────────────────────────── -->
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
+        <!-- App Logo -->
         <ImageView
             android:id="@+id/notification_icon"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:layout_alignParentLeft="true"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_alignParentStart="true"
             android:layout_centerVertical="true"
-            android:src="@drawable/app_logo" />
+            android:src="@drawable/app_logo"
+            android:scaleType="centerCrop" />
 
+        <!-- App Title -->
         <TextView
             android:id="@+id/notification_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_toRightOf="@id/notification_icon"
+            android:layout_toEndOf="@id/notification_icon"
             android:layout_centerVertical="true"
-            android:layout_marginLeft="10dp"
-            android:text="AuraHealth Health Tracker"
+            android:layout_marginStart="8dp"
+            android:text="AuraHealth"
             android:textColor="#FFFFFF"
-            android:textSize="15sp"
+            android:textSize="14sp"
             android:textStyle="bold" />
 
+        <!-- Badge pill (NUDGE / GOAL / etc.) -->
         <TextView
             android:id="@+id/notification_badge"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
             android:background="@drawable/bg_notification_btn_primary"
-            android:paddingLeft="8dp"
-            android:paddingRight="8dp"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
             android:paddingTop="3dp"
             android:paddingBottom="3dp"
-            android:text="NUDGE"
+            android:text="SMART"
             android:textColor="#FFFFFF"
-            android:textSize="10sp"
+            android:textSize="9sp"
             android:textStyle="bold" />
 
     </RelativeLayout>
 
-    <!-- Message / Main Text -->
+    <!-- ── MAIN MESSAGE ───────────────────────────────────────────────── -->
     <TextView
         android:id="@+id/notification_message"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
-        android:text="You are on track to complete your goals today! Keep it up."
+        android:layout_marginTop="10dp"
+        android:text="Stay on track — here's your progress for today."
         android:textColor="#E2E8F0"
-        android:textSize="13sp" />
+        android:textSize="12sp"
+        android:lineSpacingMultiplier="1.3" />
 
-    <!-- Progress Track Section -->
+    <!-- ── DIVIDER ─────────────────────────────────────────────────────── -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="10dp"
+        android:background="#1E293B" />
+
+    <!-- ── SMART PROGRESS BARS SECTION ───────────────────────────────── -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <!-- 🚶 STEPS Progress Row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="🚶 Steps"
+                android:textColor="#94A3B8"
+                android:textSize="11sp" />
+
+            <ProgressBar
+                android:id="@+id/notif_progress_steps"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="7dp"
+                android:layout_weight="2.2"
+                android:progressDrawable="@drawable/notif_progress_steps"
+                android:max="100"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/notification_stat_steps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="0/0"
+                android:textColor="#10B981"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:minWidth="58dp"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+        <!-- 💧 WATER Progress Row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="8dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="💧 Water"
+                android:textColor="#94A3B8"
+                android:textSize="11sp" />
+
+            <ProgressBar
+                android:id="@+id/notif_progress_water"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="7dp"
+                android:layout_weight="2.2"
+                android:progressDrawable="@drawable/notif_progress_water"
+                android:max="100"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/notification_stat_water"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="0/0"
+                android:textColor="#06B6D4"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:minWidth="58dp"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+        <!-- 😴 SLEEP Progress Row -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="😴 Sleep"
+                android:textColor="#94A3B8"
+                android:textSize="11sp" />
+
+            <ProgressBar
+                android:id="@+id/notif_progress_sleep"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="0dp"
+                android:layout_height="7dp"
+                android:layout_weight="2.2"
+                android:progressDrawable="@drawable/notif_progress_sleep"
+                android:max="100"
+                android:progress="0" />
+
+            <TextView
+                android:id="@+id/notification_stat_sleep"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="0/0"
+                android:textColor="#8B5CF6"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:minWidth="58dp"
+                android:gravity="end" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!-- ── OVERALL PROGRESS BAR ──────────────────────────────────────── -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -67,12 +215,20 @@
         android:orientation="horizontal"
         android:gravity="center_vertical">
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Overall"
+            android:textColor="#64748B"
+            android:textSize="10sp" />
+
         <ProgressBar
             android:id="@+id/notification_progress"
             style="?android:attr/progressBarStyleHorizontal"
             android:layout_width="0dp"
-            android:layout_height="6dp"
+            android:layout_height="5dp"
             android:layout_weight="1"
+            android:layout_marginStart="8dp"
             android:progressDrawable="@drawable/custom_notification_progressbar"
             android:max="100"
             android:progress="0" />
@@ -81,166 +237,86 @@
             android:id="@+id/notification_progress_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
+            android:layout_marginStart="8dp"
             android:text="0%"
-            android:textColor="#9FA8DA"
-            android:textSize="12sp"
+            android:textColor="#94A3B8"
+            android:textSize="11sp"
             android:textStyle="bold" />
 
     </LinearLayout>
 
-    <!-- Stats Table/Grid -->
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="14dp"
-        android:orientation="horizontal"
-        android:weightSum="3">
-
-        <!-- Steps Col -->
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="🚶 Steps"
-                android:textColor="#94A3B8"
-                android:textSize="11sp" />
-            <TextView
-                android:id="@+id/notification_stat_steps"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="2dp"
-                android:text="0 / 0"
-                android:textColor="#FFFFFF"
-                android:textSize="12sp"
-                android:textStyle="bold" />
-        </LinearLayout>
-
-        <!-- Water Col -->
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="💧 Water"
-                android:textColor="#94A3B8"
-                android:textSize="11sp" />
-            <TextView
-                android:id="@+id/notification_stat_water"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="2dp"
-                android:text="0 / 0"
-                android:textColor="#FFFFFF"
-                android:textSize="12sp"
-                android:textStyle="bold" />
-        </LinearLayout>
-
-        <!-- Sleep Col -->
-        <LinearLayout
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="😴 Sleep"
-                android:textColor="#94A3B8"
-                android:textSize="11sp" />
-            <TextView
-                android:id="@+id/notification_stat_sleep"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="2dp"
-                android:text="0 / 0"
-                android:textColor="#FFFFFF"
-                android:textSize="12sp"
-                android:textStyle="bold" />
-        </LinearLayout>
-
-    </LinearLayout>
-
-    <!-- Daily Inspiration Quote Box -->
+    <!-- ── DAILY QUOTE ────────────────────────────────────────────────── -->
     <LinearLayout
         android:id="@+id/notification_quote_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="10dp"
         android:background="@drawable/bg_notification_quote_box"
         android:orientation="vertical"
-        android:padding="10dp">
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
 
         <TextView
             android:id="@+id/notification_quote_prefix"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="DAILY INSPIRATION"
-            android:textColor="#9FA8DA"
+            android:textColor="#64748B"
             android:textSize="9sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:letterSpacing="0.1" />
 
         <TextView
             android:id="@+id/notification_quote_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="4dp"
-            android:text="“Your limits are just in your mind.”"
+            android:layout_marginTop="3dp"
+            android:text="&quot;Your only limit is your mind.&quot;"
             android:textColor="#CBD5E1"
             android:textSize="11sp"
             android:textStyle="italic" />
 
     </LinearLayout>
 
-    <!-- Action Buttons Row -->
+    <!-- ── ACTION BUTTONS ─────────────────────────────────────────────── -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="12dp"
         android:orientation="horizontal"
-        android:gravity="right">
+        android:gravity="end">
 
-        <!-- Open Tracker Button (TextView styled as Button) -->
         <TextView
             android:id="@+id/notification_action_open"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/bg_notification_btn_secondary"
-            android:paddingLeft="14dp"
-            android:paddingRight="14dp"
-            android:paddingTop="8dp"
-            android:paddingBottom="8dp"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp"
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
             android:text="Open App"
             android:textColor="#FFFFFF"
-            android:textSize="12sp"
+            android:textSize="11sp"
             android:textStyle="bold"
             android:clickable="true"
             android:focusable="true" />
 
-        <!-- Log Water Button (TextView styled as Button) -->
         <TextView
             android:id="@+id/notification_action_water"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
             android:background="@drawable/bg_notification_btn_primary"
-            android:paddingLeft="14dp"
-            android:paddingRight="14dp"
-            android:paddingTop="8dp"
-            android:paddingBottom="8dp"
+            android:paddingStart="14dp"
+            android:paddingEnd="14dp"
+            android:paddingTop="7dp"
+            android:paddingBottom="7dp"
             android:text="💧 Log Water"
             android:textColor="#FFFFFF"
-            android:textSize="12sp"
+            android:textSize="11sp"
             android:textStyle="bold"
             android:clickable="true"
             android:focusable="true" />

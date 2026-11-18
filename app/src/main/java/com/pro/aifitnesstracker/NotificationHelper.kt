@@ -94,10 +94,18 @@ class NotificationHelper(val context: Context) {
         expandedView.setProgressBar(R.id.notification_progress, 100, averageProgress, false)
         expandedView.setTextViewText(R.id.notification_progress_text, "$averageProgress%")
 
-        // Stats binding
-        expandedView.setTextViewText(R.id.notification_stat_steps, "$steps / $stepGoal")
-        expandedView.setTextViewText(R.id.notification_stat_water, "$water / $waterGoal")
-        expandedView.setTextViewText(R.id.notification_stat_sleep, String.format(java.util.Locale.US, "%.1f / %.1f", sleep, sleepGoal))
+        // Stats binding — text labels
+        expandedView.setTextViewText(R.id.notification_stat_steps, "$steps/$stepGoal")
+        expandedView.setTextViewText(R.id.notification_stat_water, "$water/$waterGoal")
+        expandedView.setTextViewText(R.id.notification_stat_sleep, String.format(java.util.Locale.US, "%.1f/%.1f", sleep, sleepGoal))
+
+        // Smart Progress Bars — individual per metric
+        val stepPct = (stepProgress.coerceAtMost(1f) * 100f).toInt()
+        val waterPct = (waterProgress.coerceAtMost(1f) * 100f).toInt()
+        val sleepPct = (sleepProgress.coerceAtMost(1f) * 100f).toInt()
+        expandedView.setProgressBar(R.id.notif_progress_steps, 100, stepPct, false)
+        expandedView.setProgressBar(R.id.notif_progress_water, 100, waterPct, false)
+        expandedView.setProgressBar(R.id.notif_progress_sleep, 100, sleepPct, false)
 
         // Quote binding
         expandedView.setTextViewText(R.id.notification_quote_text, "\"" + quoteText + "\"")

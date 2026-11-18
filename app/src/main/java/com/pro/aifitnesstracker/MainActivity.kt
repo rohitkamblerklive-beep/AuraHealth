@@ -276,6 +276,13 @@ class MainActivity : ComponentActivity() {
         } else {
             workManager.cancelUniqueWork("periodic_water_reminder")
         }
+
+        // Smart Context-Aware Nudges (every 30 minutes — hydration gap, inactivity, yoga, milestones)
+        if (prefsManager.isDailyReminderEnabled()) {
+            com.pro.aifitnesstracker.utils.SmartNotificationWorker.schedule(this)
+        } else {
+            com.pro.aifitnesstracker.utils.SmartNotificationWorker.cancel(this)
+        }
     }
 
     private fun startStepCounterIfPermitted(permissions: Map<String, Boolean>) {

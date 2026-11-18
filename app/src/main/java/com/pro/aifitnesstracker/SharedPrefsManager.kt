@@ -292,8 +292,10 @@ class SharedPrefsManager(context: Context) {
         prefs.edit()
             .putString("LAST_STEP_DATE", date)
             .putInt("STEPS_TODAY", 0)
+            .putInt("STEPS_$date", 0)
             .putString("STEP_HOURLY_TODAY", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0")
             .putInt("LAST_MILESTONE_PCT", 0)
+            .putInt("LAST_SENSOR_VALUE", -1)
             .apply()
     }
 
@@ -1148,6 +1150,13 @@ class SharedPrefsManager(context: Context) {
     fun setVoiceCoachEnabled(enabled: Boolean) {
         prefs.edit().putBoolean("VOICE_COACH_ENABLED", enabled).apply()
     }
+
+    // --- Generic typed accessors for SmartNotificationWorker ---
+    fun getLong(key: String, default: Long): Long = prefs.getLong(key, default)
+    fun putLong(key: String, value: Long) { prefs.edit().putLong(key, value).apply() }
+    fun getInt(key: String, default: Int): Int = prefs.getInt(key, default)
+    fun putInt(key: String, value: Int) { prefs.edit().putInt(key, value).apply() }
+    fun getString(key: String, default: String): String? = prefs.getString(key, default)
 }
 
 data class CustomMudraRoutine(
